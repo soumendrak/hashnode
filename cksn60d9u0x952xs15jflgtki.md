@@ -1,4 +1,4 @@
-## PyCon India CFP review
+## How did we select 30 talks from 280+ talk proposals received in Pycon India 2019?
 
 
 I was one of the reviewers for Talk proposals in [PyCon (Python Conference) India 2019](https://in.pycon.org/2019/), which happened in Chennai. This article is written to help someone for submission of CFP in future PyCon India. Especially how their proposals will get reviewed.
