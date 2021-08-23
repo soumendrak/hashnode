@@ -117,8 +117,17 @@ As a reviewer I have tried to be neutral and unbiased. If you have liked/dislike
 
 Thank you and all the best if you are submitting a proposal.
 
-### Further knowledge
+### Important Links
 
 * [PyCon India 2019 conference videos](https://www.youtube.com/watch?v=VUT386_GKI8&list=PL6GW05BfqWIfsflQt05LM3FTX6cd7PGps)
 
 * [Reviewers of PyCon India 2019](https://in.pycon.org/2019/thank-you.html)
+
+## Further reading
+
+- [Do you know all the usage of the Underscore in Python?](https://blog.soumendrak.com/do-you-know-all-the-usage-of-the-underscore-in-python)
+- [5 usages of asterisk](https://blog.soumendrak.com/5-usages-of-an-asterisk-in-python)
+- [Cool Python tricks you are not using, but you should](https://blog.soumendrak.com/cool-python-tricks-you-are-not-using-but-you-should)
+- [https://blog.soumendrak.com/cache-heavy-computation-functions-with-a-timeout-value](https://blog.soumendrak.com/cache-heavy-computation-functions-with-a-timeout-value)
+- [In Python, do you know double for loops with conditions in a list-comprehension?](https://blog.soumendrak.com/in-python-do-you-know-double-for-loops-with-conditions-in-a-list-comprehension)
+- [Optimize your Python code](https://blog.soumendrak.com/optimize-your-python-code-d7e9752e501e)
