@@ -79,7 +79,6 @@ The cover picture is copyrighted to the author.
 
 - [Do you know all the usage of the Underscore in Python?](https://blog.soumendrak.com/do-you-know-all-the-usage-of-the-underscore-in-python)
 - [5 usages of asterisk](https://blog.soumendrak.com/5-usages-of-an-asterisk-in-python)
-- [Cool Python tricks you are not using, but you should](https://blog.soumendrak.com/cool-python-tricks-you-are-not-using-but-you-should)
 - [https://blog.soumendrak.com/cache-heavy-computation-functions-with-a-timeout-value](https://blog.soumendrak.com/cache-heavy-computation-functions-with-a-timeout-value)
 - [In Python, do you know double for loops with conditions in a list-comprehension?](https://blog.soumendrak.com/in-python-do-you-know-double-for-loops-with-conditions-in-a-list-comprehension)
 - [Optimize your Python code](https://blog.soumendrak.com/optimize-your-python-code-d7e9752e501e)
