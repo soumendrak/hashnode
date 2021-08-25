@@ -71,7 +71,42 @@ for i, val in enumerate(z):
 a, b = b, a
 # this is tuple unpacking
 ```
+### Last element of an iterable
 
+To fetch the last element of any iterable like list, tuple or set.
+
+#### For list/tuple
+
+```python
+>>> zlst = ['a', 'b', 'c']
+>>> zlst[-1]
+'c'
+>>> *_, e = zlst
+# if you do not want to use the non-last elements
+>>> e
+'c'
+>>> ztup = ('a', 'b', 'c')
+>>> ztup[-1]
+'c'
+
+```
+
+#### For set
+
+```python
+>>> my_set = {'a', 'b', 'c'}
+>>> my_set[-1]
+TypeError: 'set' object is not subscriptable
+>>> q, w, e = my_set
+>>> e
+'c'
+>>> *q, e = my_set
+>>> e
+'c'
+>>> q
+['a', 'b']
+# q is not a set
+```
 More tricks will be added soon.
 The cover picture is copyrighted to the author.
 
