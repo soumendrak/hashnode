@@ -78,3 +78,16 @@ The made language detector is an essential and fast Odia language detector, with
 
 ଧନ୍ୟବାଦ । 
 ଜୟ ଜଗନ୍ନାଥ 🙏🏼 
+
+<!-- Citation -->
+<hr>
+If you find this article helpful or influential please consider citing:
+
+```bibtex
+@inproceedings{OdiaLanguageDetection,
+    author       = {Soumendra Kumar Sahoo},
+    title        = {Odia language detection by Soumendra Kumar Sahoo},
+    howpublished = {\url{https://blog.soumendrak.com/odia-language-detection}},
+    year         = {2021}
+}
+```
