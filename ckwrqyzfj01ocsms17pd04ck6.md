@@ -180,12 +180,6 @@ The full source code can be found here: https://bit.ly/OdiaNLPSambad
 
 News website and corresponding articles data extracted
 
-- Sambad : 2,38,680 articles
-- Dharitri : 1,21,368
-- Samaja : 1,02,671
-- Prameya : 70,918
-- Pragativadi : 12,987
-- Samaya : 3,220
 
 | Website                | # of Articles     |      Size        |
 |:------------------|----------------|:------------|
