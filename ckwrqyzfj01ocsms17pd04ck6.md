@@ -133,7 +133,7 @@ Rule(LinkExtractor(restrict_xpaths="//a[@class='post-title post-url']"), follow=
 - `MapCompose` do the post-processing after extracting text from the website.
 - Here MapCompose removes additional spaces and new line characters from the extracted field and join the final result into a single string of the list.
 
-You can see the full spider written for Smabad here:
+You can see the full spider written for Sambad website here:
 
 ```python
 from scrapy.linkextractors import LinkExtractor
