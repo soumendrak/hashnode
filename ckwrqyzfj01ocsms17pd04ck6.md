@@ -190,6 +190,7 @@ News website and corresponding articles data extracted
 | Pragativadi | 12,987 | 36.1 MB |
 | Samaya | 3,220 | 8.6 MB |
 
+- The datasets are in [Kaggle](https://bit.ly/3dj5nGz).
 
 ### Sample Article
 
