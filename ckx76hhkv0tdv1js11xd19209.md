@@ -23,7 +23,7 @@ How with proper care she started doing good and came out of the worst phase of h
 3. Regretting your past is nothing better than throwing stones into the sea.
 4. No matter what happens your parents will stay with you *till eternity*  even after they die
 5. You can always lead your life and choose what do you need to do; nobody can stop you.
-6. Girls are pigs. They change very soon they don't value the other boy's feelings. Later when the boy leaves, they cry and regret it. Choose a girl of your life correctly.
+6. Girls (generalized) change very soon they don't value the other boy's feelings. Later when the boy leaves, they cry and regret it. Choose a girl of your life correctly.
 7. Most of the time girls use boys for their happiness.
 8. Helping others is the ultimate happiness.
 9. You can always get up.
