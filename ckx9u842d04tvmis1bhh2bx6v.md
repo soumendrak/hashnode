@@ -57,6 +57,6 @@ Did not qualify. I was weak in the OOPs concepts.
 - This was my first Python interview. I want to check how in the market Python questions are being asked. 
 - I got to know I have a lot to study. I was self-studying Python.
 
-I have appeared in 30+ interviews so far. You can check out my [job interview series](https://blog.soumendrak.com/series/job-interview) for the rest of the interviews experiences.
+I have appeared in 20+ interviews so far. You can check out my [job interview series](https://blog.soumendrak.com/series/job-interview) for the rest of the interviews experiences.
 
 Let me know if you have any further questions. Thank You.
