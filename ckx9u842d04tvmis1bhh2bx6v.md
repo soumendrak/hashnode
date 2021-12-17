@@ -1,4 +1,4 @@
-## Tech Mahindra interview experience
+## Tech Mahindra interview questions
 
 This is a part of my [job interviews series](https://blog.soumendrak.com/series/job-interview). 
 
