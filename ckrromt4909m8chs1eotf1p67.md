@@ -1,4 +1,4 @@
-## Do you know all the usage of the Underscore in Python?
+## Usage of the Underscore(_) in Python?
 
 This is a continued story of my previous post [Star in Python](https://soumendrak.hashnode.dev/the-python-star).
 
@@ -69,6 +69,10 @@ In the terminal or command prompt to access the last output of the operation you
 >>> _
 7
 ```
+`ipython` takes it to the next level with number-based access.
+
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1640205151011/eewaoMSyA.png)
 
 ## Separate digits for readability
 
