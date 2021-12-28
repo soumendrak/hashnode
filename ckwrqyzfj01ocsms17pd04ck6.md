@@ -58,6 +58,12 @@ Scrapy was on my radar for at least a couple of years. Due to procrastination, I
 
 ![Scrapy.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1638606496109/9m5Dck3da.png)
 
+I have explained in a deep dive video, how I did it, you can refer to it.  
+*Disclaimer: this video is in Odia language.*
+
+%[https://www.youtube.com/watch?v=1DCpznINiX4]
+
+
 ## Start URL
 
 - A root/parent/base URL also called a start URL is used as the starting from where all the further URLs will be crawled.
