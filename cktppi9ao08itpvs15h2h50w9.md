@@ -8,7 +8,7 @@ Hello there, thanks for visiting the page which describes a brief about me.
 These are a few of my open-source details.
 
 - 🔭 I’m currently working on developing an ecosystem for [Odia language](https://en.wikipedia.org/wiki/Odia_language) on the open-source internet.
-- 🌱 I’m currently learning Amazon Web Services in detail.
+- 🌱 I’m currently learning Web3.0 architecture and concepts.
 - 👯 I’m looking to collaborate on Odia language open-source corpus development.
 - 🤔 I’m looking for help with basic computer knowledge and a passion for Odia.
 - 💬 Ask me about Odia language, Natural Language Processing, Python programming, Career coaching, leading a team and interview process.
