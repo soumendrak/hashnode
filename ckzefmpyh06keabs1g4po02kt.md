@@ -266,14 +266,6 @@ _ With the letters, when we add the diacritics and Juktakhyara Odia is an advanc
 - Got an issue with custom domain support for Vercel, that's why moved to Netlify.
 - The other branch builds' URLs [can not be deleted](https://answers.netlify.com/t/how-to-delete-old-deploys/11793) in Netlify, therefore using Vercel for other branch builds (beta testing of new features) and using Netlify for production custom website support.
 
-## 🙏🏼 Acknowledgements
-
-- [Arunmozhi](https://twitter.com/tecoholic) from Tamil-Wordle to share the diacritics merging code snippet.
-- [Hannah Park et al.](https://www.linkedin.com/in/hannahpark1000/) for starting and maintaining the base[https://github.com/hannahcode/wordle] of the repository above this foundation the codebase has been built.
-- [Dr. Aviseka Acharya](https://twitter.com/aviseka) for all the inspiration and support throughout.
-- [Saswata Debadutta](https://twitter.com/pureodiasaswata) for making the logo and providing ideas on upgrading the UX.
-- All the alpha testers who have tested the website before public release.
-- The launch audience of Twitter space, who have provided instant feedback.
 
 ## Rewind ⏪
 
@@ -309,6 +301,16 @@ _ With the letters, when we add the diacritics and Juktakhyara Odia is an advanc
 - Thanks for your time. Please check out the game here: https://sr.soumendrak.com
 As always, please provide your valuable feedback.
 - Check out other versions of the Wordle in [Wordles of the World](https://rwmpelstilzchen.gitlab.io/wordles/) and in [Wordle Alternatives](https://aloneonahill.com/blog/wordle-alternatives/)
+
+## 🙏🏼 Acknowledgements
+
+- [Arunmozhi](https://twitter.com/tecoholic) from Tamil-Wordle to share the diacritics merging code snippet.
+- [Hannah Park et al.](https://www.linkedin.com/in/hannahpark1000/) for starting and maintaining the base[https://github.com/hannahcode/wordle] of the repository above this foundation the codebase has been built.
+- [Dr. Aviseka Acharya](https://twitter.com/aviseka) for all the inspiration and support throughout.
+- [Saswata Debadutta](https://twitter.com/pureodiasaswata) et al for making the logo and providing ideas on upgrading the UX.
+- All the alpha testers who have tested the website before public release and provided their suggestions for improvement.
+- The launch audience of Twitter space, who have provided instant feedback.
+- The players who post their gameplay results, motivate other Odias to play, report bugs, and provide valuable feedback to us.
 
 <!-- Citation -->
 <hr>
