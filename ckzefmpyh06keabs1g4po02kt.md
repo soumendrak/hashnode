@@ -8,7 +8,7 @@
 - On 12th Jan 2021, I have been approached by [Dr. Aviseka Acharya](https://twitter.com/aviseka) to build the game [Wordle](https://www.powerlanguage.co.uk/wordle/) in [Odia language](https://en.wikipedia.org/wiki/Odia_language) for the Odia people.
 - The goal is to engage people to increase their vocabulary and appreciate the richness of the language.
 - I did not have any clue of the game Wordle, other than watching people post green-yellow boxes on their Twitter handles.
-- Even Dr. Aviseka did not have a clue if it can be done in Odia. Dr. Aviseka and I met once over an Odias In ML Twitter space. Later when I asked him what inspired him to reach out to me with this requirement. His exact response:
+- Even Dr. Aviseka did not have a clue if it can be done in Odia. Dr. Aviseka and I met once over an [Odias In ML Twitter](https://twitter.com/odias_in_ml) space. Later when I asked him what inspired him to reach out to me with this requirement. His exact response:
 
 
 > 1. The way English language injecting into our kids life is becoming a threat to our own language. 
@@ -24,18 +24,18 @@
 - This phase makes or breaks the project.
 - The first thing a senior programmer does is, learn the problem and get the requirements.
 - If you would have asked me 8-10 years before, the first thing I could have done is panic on getting these high-level out-of-the-blue requirements, then tried to write from scratch. **Do not be that guy.**
-- I played the game multiple times (through Incognito Window) and get a guess on the algorithm behind it.
+- I played the game multiple times (through Incognito Window) and get an idea of the algorithm behind it.
 - Mind mapping the algorithms for Odia language and getting the low-level requirements.
 
 ## 🤨 Requirements gathering
 
-After playing the game and keeping the end goal in mind are gathered the following requirements:
+After playing the game and keeping the end goal in mind, I have gathered the following requirements:
 
 
-1. A specific length of words data required
+1. A specific length of words data/corpus required
 2. Need to compare multiple words: position and letter
-3. Letter with Matra and Juktakhyara is a challenge to compare, but let's figure it out later.
-4. The sharing part should not reveal the words and their positions, but their color as done in the original game.
+3. Letter with Matra(diacritics) and Juktakhyara(combination of multiple letters) is a challenge to compare, but let's figure it out later.
+4. The sharing part should not reveal the words and their positions, but their color as done in the original game. See: [Zero-knowledge proof](https://en.wikipedia.org/wiki/Zero-knowledge_proof).
 5. A keyboard to input Odia letters
 6. Rest all requirements are to mimic the features, that the original game has. Those will be Add-on.
 
@@ -67,7 +67,7 @@ After playing the game and keeping the end goal in mind are gathered the followi
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1643401469305/jyoRantQAr.png)
 
-- I have been a Python programmer, I was looking for a Python-based solution, the Tamil-wordle was written in Golang. I learned (and forgot) Golang in IBM, therefore I was a bit confident about it. It has a backend and a frontend. 
+- I have been a Python programmer, I was looking for a Python-based solution, the Tamil-wordle was written in Golang. I learned (and forgot) Golang in IBM, therefore I was a bit confident about it that I can recall the concepts and apply them. It has a backend and a frontend. 
 - The front end makes calls to the backend Golang server, where the validation and verification happen.
 - The main branch was based on CLI and the UI was in progress. 
 - There were two UI PRs were there, One UI PR (Pull Request) was built in ReactJS, which caught my attention.
