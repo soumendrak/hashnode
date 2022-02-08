@@ -93,7 +93,7 @@ After playing the game and keeping the end goal in mind are gathered the followi
 - This was started just 4 days before Dr. Aviseka pitched the idea to me.
 - It looked promising with a clean UI.
 - It was written in ReactJS typescript and Tailwind. I have some knowledge of ReactJS but not much of Typescript or Tailwind.
-- However, I just have a faint memory from the [CodeWithHarry video](https://www.youtube.com/watch?v=ghZZB_7HFS8) where he explained how can we create a good looking website in 5 minutes.
+- However, I just have a faint memory from the [CodeWithHarry video](https://www.youtube.com/watch?v=ghZZB_7HFS8) where he explained how can we create a good looking website with Tailwind CSS in just 5 minutes.
 
 #### Pros
 
@@ -118,7 +118,7 @@ After playing the game and keeping the end goal in mind are gathered the followi
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1643401507647/HU1x9J_pj.png)
 
-- It was one of the first clones, where being a non-English wordle clone, the UI looked fine.
+- It was one of the first clones I had come across, where being a non-English wordle clone, the UI looked fine.
 - It had a text box where you can type in the words before putting them into the boxes.
 - It gave me hope that non-English wordle is possible.
 
@@ -129,7 +129,7 @@ After playing the game and keeping the end goal in mind are gathered the followi
 
 #### Cons
 
-- In a new framework called Svelte which I have never heard of before. Not even have the slightest clue. Googled a bit and got to know about it, but not much comfortable.
+- In a new framework called *Svelte* which I have never heard of before. Not even have the slightest clue. Googled a bit and got to know about it, but not much comfortable.
 - The UI was not as beautiful as the previous Tailwind one.
 
 
