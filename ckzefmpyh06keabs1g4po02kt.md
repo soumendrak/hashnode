@@ -298,7 +298,7 @@ _ With the letters, when we add the diacritics and Juktakhyara Odia is an advanc
 - All it took was a sincere effort towards the right direction and a lot of emotion towards your motherland.
 - People should take this as an inspiration that, yes whatever can be done in English, can be done in Indic languages too, can be done in Odia too.
 - It has been just 10 days and we have more than 1,700 unique users from 25+ countries. More on that later.
-- Thanks for your time. Please check out the game here: https://sr.soumendrak.com
+- Thanks for your time. Please check out the game here: [www.ଶବ୍ଦରସ.com](https://ଶବ୍ଦରସ.com)
 As always, please provide your valuable feedback.
 - Check out other versions of the Wordle in [Wordles of the World](https://rwmpelstilzchen.gitlab.io/wordles/) and in [Wordle Alternatives](https://aloneonahill.com/blog/wordle-alternatives/)
 
