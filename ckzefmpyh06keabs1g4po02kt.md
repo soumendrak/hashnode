@@ -1,5 +1,6 @@
 ## The story behind Shabdarasa (ଶବ୍ଦରସ)
 
+Please check out the game here: **[www.ଶବ୍ଦରସ.com](https://ଶବ୍ଦରସ.com)**
 
 ![Screenshot 2022-01-29 at 10.30.51 AM.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1643432507045/oUCSsqupZ.png)
 
