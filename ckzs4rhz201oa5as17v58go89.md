@@ -4,8 +4,6 @@ This is a part of my [job interviews series](https://blog.soumendrak.com/series/
 
 ## Background
 
-- Years of Experience: 6 years
-- Relevant Python experience: 3.5 years
 - Year: September 2018
 - Campus: [JPMC Office, ORR, Bengaluru](https://goo.gl/maps/3beQjwthP5QJaadCA) 
 - Position: Senior Python developer
@@ -19,7 +17,6 @@ On the ORR (outer ring road), JPMC has a big office. It took me some time to rea
 Before the physical discussion, I had a telephonic round.
 It was delayed by 1 hour due to some availability issues.
 
-### Topics discussed
 
 1. Entity extraction how you did in {a client} and what were the main challenges involved.
   - Date extraction on different date formats was a challenge. I had used multiple libraries plus my own self made rule-based logic to finally make it work. 
