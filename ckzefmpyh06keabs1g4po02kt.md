@@ -14,8 +14,8 @@ Please check out the game here: **[www.ଶବ୍ଦରସ.com](https://ଶବ୍
 
 > 1. The way English language injecting into our kids life is becoming a threat to our own language. 
 > 2. We all know how crucial a language is for state / nation 
-> 3. The only way we can claim back and prosperous is with innovation , smart , easy approach with our language so game is one of them. 
-> 4. I followed your work and saw your passion for odia language so I thought you may guide me.
+> 3. The only way we can claim back and prosperous is with innovation , smart , easy approach with our language so the game is one of them. 
+> 4. I followed your work and saw your passion for the Odia language so I thought you may guide me.
 > 5. I heard your speech in my space there I discovered your potency as well .
 
 
@@ -25,7 +25,7 @@ Please check out the game here: **[www.ଶବ୍ଦରସ.com](https://ଶବ୍
 - This phase makes or breaks the project.
 - The first thing a senior programmer does is, learn the problem and get the requirements.
 - If you would have asked me 8-10 years before, the first thing I could have done is panic on getting these high-level out-of-the-blue requirements, then tried to write from scratch. **Do not be that guy.**
-- I played the game multiple times (through Incognito Window) and get an idea of the algorithm behind it.
+- I played the game multiple times (through Incognito Window) and got an idea of the algorithm behind it.
 - Mind mapping the algorithms for Odia language and getting the low-level requirements.
 
 ## 🤨 Requirements gathering
@@ -68,7 +68,7 @@ After playing the game and keeping the end goal in mind, I have gathered the fol
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1643401469305/jyoRantQAr.png)
 
-- I have been a Python programmer, I was looking for a Python-based solution, the Tamil-wordle was written in Golang. I learned (and forgot) Golang in IBM, therefore I was a bit confident about it that I can recall the concepts and apply them. It has a backend and a frontend. 
+- I have been a Python programmer, I was looking for a Python-based solution, the Tamil-wordle was written in Golang. I learned (and forgot 😀) Golang in IBM, therefore I was a bit confident about it that I can recall the concepts and apply them. The project has a backend and a frontend. 
 - The front end makes calls to the backend Golang server, where the validation and verification happen.
 - The main branch was based on CLI and the UI was in progress. 
 - There were two UI PRs were there, One UI PR (Pull Request) was built in ReactJS, which caught my attention.
@@ -83,7 +83,7 @@ After playing the game and keeping the end goal in mind, I have gathered the fol
 #### Cons
 
 - It was not maintained seriously, no commit for 6 days. A lot of risk on future support and maintenance.
-- The UI was not there and all I had to bet on was a PR, which was probably accepted by the repo owner.
+- The UI was not there and all I had to bet on was a PR, which will be probably accepted by the repo owner. (It did not)
 - The UI PR was not exactly like the original wordle game, but far from it.
 
 ### ReactJS/Tailwind Wordle
@@ -94,7 +94,8 @@ After playing the game and keeping the end goal in mind, I have gathered the fol
 - This was started just 4 days before Dr. Aviseka pitched the idea to me.
 - It looked promising with a clean UI.
 - It was written in ReactJS typescript and Tailwind. I have some knowledge of ReactJS but not much of Typescript or Tailwind.
-- However, I just have a faint memory from the [CodeWithHarry video](https://www.youtube.com/watch?v=ghZZB_7HFS8) where he explained how can we create a good looking website with Tailwind CSS in just 5 minutes.
+- However, I just had a faint memory from the [CodeWithHarry video](https://www.youtube.com/watch?v=ghZZB_7HFS8) where he explained how can we create a good looking website with Tailwind CSS in just 5 minutes.
+- I calculated he took 5 minutes, for me worst case 5 days.
 
 #### Pros
 
