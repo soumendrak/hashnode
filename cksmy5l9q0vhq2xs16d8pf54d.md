@@ -110,6 +110,23 @@ TypeError: 'set' object is not subscriptable
 More tricks will be added soon.
 The cover picture is copyrighted to the author.
 
+### Code formatting
+
+- Use black to format your codebase.
+- Have a large project, can do one at a time or one file at a time.
+- Here is my favorite config I use to auto-format my code modules.
+
+```sh
+$ pip install black
+$ black folder/file.py -l 120 -t py38 
+reformatted folder/file.py
+All done! ✨ 🍰 ✨
+1 file reformatted.
+```
+
+- `-l`: I use 120 as the maximum characters I accept in a line
+- `-t py38`: Python 3.8 specific custom formatting.
+
 ## Further reading
 
 - [Do you know all the usage of the Underscore in Python?](https://blog.soumendrak.com/do-you-know-all-the-usage-of-the-underscore-in-python)
