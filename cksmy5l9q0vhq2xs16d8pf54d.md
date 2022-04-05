@@ -110,7 +110,7 @@ TypeError: 'set' object is not subscriptable
 More tricks will be added soon.
 The cover picture is copyrighted to the author.
 
-### Code formatting
+## Code formatting
 
 - Use black to format your codebase.
 - Have a large project, can do one at a time or one file at a time.
