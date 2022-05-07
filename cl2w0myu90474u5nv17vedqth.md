@@ -21,8 +21,10 @@ The Clock (analog) we have now is made in the clockwise direction to mimic the s
 
 
 Sundial shadow movement in the anti-clockwise direction in the Southern Hemisphere:
+
 %[https://www.youtube.com/watch?v=zWueOSLpbbw]
 
 Sundial shadow movement in the clockwise direction in the Northern Hemisphere:
+
 %[https://www.youtube.com/watch?v=_MFM8PFio6k]
 
