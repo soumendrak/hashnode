@@ -28,3 +28,6 @@ Sundial shadow movement in the clockwise direction in the Northern Hemisphere:
 
 %[https://www.youtube.com/watch?v=_MFM8PFio6k]
 
+Therefore, a clock rotates clockwise to match the shadow of the sun's movement in the densely populated northern hemisphere.
+
+Please follow me on [Twitter](https://twitter.com/soumendrak_) for more such insights.
