@@ -52,4 +52,5 @@ I had tried IE, Edge, Safari, Opera, Maxthon, Avant, Vivaldi, etc. I had been a 
  - It has a feature, which helps you read faster.
  - I have been experimenting with this Add-on and have not settled yet.
 
+I would love to know any other add-on which is super useful to you and I should try that out.
 To get more such updates you can follow me on Twitter [@soumendrak_](https://twitter.com/soumendrak_).
