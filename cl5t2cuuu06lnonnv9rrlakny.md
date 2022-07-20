@@ -32,6 +32,8 @@ Here is a sample use case:
 ```python
 # pip install codetiming
 # pip install humanfriendly
+# pip install loguru
+
 from codetiming import Timer
 from humanfriendly import format_timespan
 from loguru import logger
