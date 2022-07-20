@@ -1,4 +1,4 @@
-## Aggregated Code timing in Python
+## Aggregate Code timing in Python
 
 There are many ways to get how much time a function takes in Python. Here is an easy decorator implementation to check how much time a function takes.
 
