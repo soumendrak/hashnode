@@ -1,4 +1,4 @@
-## Software Engineering Blogs
+## Top Software Engineering Blogs
 
 This is a growing collection of blogs by software companies that you can read to get Engineering practices and Software Architecture ideas.
 
