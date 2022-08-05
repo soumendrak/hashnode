@@ -16,6 +16,7 @@ These are a few of my open-source details.
 - 📫 How to reach me: I am active on LinkedIn and Twitter. Links will be at the top-right of this page.
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: We love to hear pessimistic news than optimistic.
+- ⏳ Favourite pass time: Playing around with the historical images of places on Google Earth
 
 If you want to know more you can visit my [LinkedIn](https://www.linkedin.com/in/soumendrak/) profile.
 
