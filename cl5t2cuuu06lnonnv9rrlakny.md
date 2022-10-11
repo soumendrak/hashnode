@@ -1,1 +1,78 @@
-IyMgQWdncmVnYXRlIENvZGUgdGltaW5nIGluIFB5dGhvbgoKVGhlcmUgYXJlIG1hbnkgd2F5cyB0byBnZXQgaG93IG11Y2ggdGltZSBhIGZ1bmN0aW9uIHRha2VzIGluIFB5dGhvbi4gSGVyZSBpcyBhbiBlYXN5IGRlY29yYXRvciBpbXBsZW1lbnRhdGlvbiB0byBjaGVjayBob3cgbXVjaCB0aW1lIGEgZnVuY3Rpb24gdGFrZXMuCgpgYGBweXRob24KZnJvbSBmdW5jdG9vbHMgaW1wb3J0IHdyYXBzCmltcG9ydCB0aW1lCgoKZGVmIHRpbWVpdChmdW5jKToKICAgIEB3cmFwcyhmdW5jKQogICAgZGVmIHRpbWVpdF93cmFwcGVyKCphcmdzLCAqKmt3YXJncyk6CiAgICAgICAgc3RhcnRfdGltZSA9IHRpbWUucGVyZl9jb3VudGVyKCkKICAgICAgICByZXN1bHQgPSBmdW5jKCphcmdzLCAqKmt3YXJncykKICAgICAgICBlbmRfdGltZSA9IHRpbWUucGVyZl9jb3VudGVyKCkKICAgICAgICB0b3RhbF90aW1lID0gZW5kX3RpbWUgLSBzdGFydF90aW1lCiAgICAgICAgcHJpbnQoZidGdW5jdGlvbiB7ZnVuYy5fX25hbWVfX317YXJnc30ge2t3YXJnc30gdG9vayB7dG90YWxfdGltZTouNGZ9IHNlY29uZHMnKQogICAgICAgIHJldHVybiByZXN1bHQKICAgIHJldHVybiB0aW1laXRfd3JhcHBlcgoKQHRpbWVpdApkZWYgbXlfZnVuYygpOgogICAgIyBkbyBzdHVmZgoKYGBgCgpUaGlzIGRlY29yYXRvciBjYW4gYmUgdXNlZCBieSBkZWNvcmF0aW5nIGEgZnVuY3Rpb24gdG8gZ2V0IHRoZSB0aW1lIHNwZW50LgpXaGF0IGlmIHlvdSB3YW50IHRvIGFnZ3JlZ2F0ZSB0aGlzIHRpbWluZyBkYXRhIGluIGEgdGltZWZyYW1lLCBsaWtlIGhvdyBtYW55IHRpbWVzIHRoaXMgZnVuY3Rpb24gaGFzIGJlZW4gY2FsbGVkLCBhbmQgd2hhdCB0aGUgbWF4aW11bSB0aW1lIGlzIHRha2VuLCBmb3IgdGhhdCwgd2UgbmVlZCB0byB1c2UgYSBsaWJyYXJ5IGNhbGxlZCBbY29kZXRpbWluZ10oaHR0cHM6Ly9naXRodWIuY29tL3JlYWxweXRob24vY29kZXRpbWluZykuCkhlcmUgaXMgYSBzYW1wbGUgdXNlIGNhc2U6CgoKYGBgcHl0aG9uCiMgcGlwIGluc3RhbGwgY29kZXRpbWluZwojIHBpcCBpbnN0YWxsIGh1bWFuZnJpZW5kbHkKIyBwaXAgaW5zdGFsbCBsb2d1cnUKCmZyb20gY29kZXRpbWluZyBpbXBvcnQgVGltZXIKZnJvbSBodW1hbmZyaWVuZGx5IGltcG9ydCBmb3JtYXRfdGltZXNwYW4KZnJvbSBsb2d1cnUgaW1wb3J0IGxvZ2dlcgoKCkBUaW1lcihuYW1lPSJteV9mdW5jIiwgdGV4dD1sYW1iZGEgc2VjczogZiJteV9mdW5jIGVsYXBzZWQgdGltZToge2Zvcm1hdF90aW1lc3BhbihzZWNzKX0iKQpkZWYgbXlfZnVuYygpOgogICAgLi4uCgpkZWYgZ2V0X2FnZ3JlZ2F0ZWRfdGltaW5ncyhjbHMpOgogICAgdGltZWRfZnVuY3Rpb24gPSAibXlfZnVuYyIKICAgIGxvZ2dlci5pbmZvKAogICAgICAgIGYiXG57dGltZWRfZnVuY3Rpb259IGNvdW50OiB7VGltZXIudGltZXJzLmNvdW50KHRpbWVkX2Z1bmN0aW9uKX1cbiIKICAgICAgICBmInRvdGFsOiB7VGltZXIudGltZXJzLnRvdGFsKHRpbWVkX2Z1bmN0aW9uKX1cbiIKICAgICAgICBmIm1heDoge1RpbWVyLnRpbWVycy5tYXgodGltZWRfZnVuY3Rpb24pfVxuIgogICAgICAgIGYibWluOiB7VGltZXIudGltZXJzLm1pbih0aW1lZF9mdW5jdGlvbil9XG4iCiAgICAgICAgZiJtZWFuOiB7VGltZXIudGltZXJzLm1lYW4odGltZWRfZnVuY3Rpb24pfVxuIgogICAgICAgIGYic3RhbmRhcmQgZGV2aWF0aW9uOiB7VGltZXIudGltZXJzLnN0ZGV2KHRpbWVkX2Z1bmN0aW9uKX1cbiIKICAgICAgICBmIm1lZGlhbjoge1RpbWVyLnRpbWVycy5tZWRpYW4odGltZWRfZnVuY3Rpb24pfVxuIgogICAgKQogICAgVGltZXIudGltZXJzLmNsZWFyKCkgICMgY2xlYXJzIGFsbCB0aGUgdGltZXIgZGF0YQoKYGBgClRoaXMgd2lsbCBmaW5kIHRoZSBhZ2dyZWdhdGVkIHRpbWUgc3BlbnQgYnkgYG15X2Z1bmNgLiBMZXQncyBnbyB0aHJvdWdoIHdoYXQgZWFjaCBvbmUgb2YgdGhlbSB3aWxsIGxvZzoKCi0gX2NvdW50XzogTnVtYmVyIG9mIHRpbWVzIHRoZSBmdW5jdGlvbiBoYXMgYmVlbiBjYWxsZWQuCi0gX3RvdGFsXzogU3VtIG9mIGFsbCB0aGUgc2Vjb25kcyBlbGFwc2VkIGluIHRoZSBmdW5jdGlvbgotIF9tYXhfOiBNYXhpbXVtIHRpbWUgc3BlbnQgb24gYSBzaW5nbGUgZmxvdwotIF9taW5fOiBNaW5pbXVtIHRpbWUgc3BlbnQgb24gYSBzaW5nbGUgZmxvdwotIF9tZWFuXzogVGhlIGF2ZXJhZ2Ugb2YgYWxsIHRoZSB0aW1lIHNwZW50IG9uIHRoYXQgZnVuY3Rpb24KLSBfbWVkaWFuXzogVGhlIG1lZGlhbiBvZiBhbGwgZWxhcHNlZCB0aW1lCi0gX3N0ZGV2XzogVGhlIHN0YW5kYXJkIGRldmlhdGlvbiBvZiBhbGwgZWxhcHNlZCB0aW1lCgpBdCB0aGUgZW5kIGBUaW1lci50aW1lcnMuY2xlYXIoKWAgY2xlYXJzIHRoZSBkYXRhIHN0b3JlZCBJbiBtZW1vcnkgYW5kIHN0YXJ0cyBmcm9tIGZyZXNoIGZvciB0aGUgbmV4dCBpdGVyYXRpb24uCgpEbyB5b3Ugd2FudCB0byB1c2UgYW4gaW4tbWVtb3J5IExSVSBjYWNoZSB3aXRoIGEgdGltZW91dCwgeW91IG1heSBjaGVjayBvdXQgdGhpcyBhcnRpY2xlOgoKJVtodHRwczovL2Jsb2cuc291bWVuZHJhay5jb20vY2FjaGUtaGVhdnktY29tcHV0YXRpb24tZnVuY3Rpb25zLXdpdGgtYS10aW1lb3V0LXZhbHVlXQoKSSBwb3N0IG9uIFB5dGhvbiBwcm9ncmFtbWluZyBvbiBteSBUd2l0dGVyIGhhbmRsZSwgeW91IGNhbiBmb2xsb3cgbWUgW0Bzb3VtZW5kcmFrX10oaHR0cHM6Ly93d3cudHdpdHRlci5jb20vc291bWVuZHJha18pLgoKW015IHdlYnNpdGVdKGh0dHBzOi8vd3d3LnNvdW1lbmRyYWsuY29tKQ==
+# Aggregate Code timing in Python
+
+There are many ways to get how much time a function takes in Python. Here is an easy decorator implementation to check how much time a function takes.
+
+```python
+from functools import wraps
+import time
+
+
+def timeit(func):
+    @wraps(func)
+    def timeit_wrapper(*args, **kwargs):
+        start_time = time.perf_counter()
+        result = func(*args, **kwargs)
+        end_time = time.perf_counter()
+        total_time = end_time - start_time
+        print(f'Function {func.__name__}{args} {kwargs} took {total_time:.4f} seconds')
+        return result
+    return timeit_wrapper
+
+@timeit
+def my_func():
+    # do stuff
+
+```
+
+This decorator can be used by decorating a function to get the time spent.
+What if you want to aggregate this timing data in a timeframe, like how many times this function has been called, and what the maximum time is taken, for that, we need to use a library called [codetiming](https://github.com/realpython/codetiming).
+Here is a sample use case:
+
+
+```python
+# pip install codetiming
+# pip install humanfriendly
+# pip install loguru
+
+from codetiming import Timer
+from humanfriendly import format_timespan
+from loguru import logger
+
+
+@Timer(name="my_func", text=lambda secs: f"my_func elapsed time: {format_timespan(secs)}")
+def my_func():
+    ...
+
+def get_aggregated_timings(cls):
+    timed_function = "my_func"
+    logger.info(
+        f"\n{timed_function} count: {Timer.timers.count(timed_function)}\n"
+        f"total: {Timer.timers.total(timed_function)}\n"
+        f"max: {Timer.timers.max(timed_function)}\n"
+        f"min: {Timer.timers.min(timed_function)}\n"
+        f"mean: {Timer.timers.mean(timed_function)}\n"
+        f"standard deviation: {Timer.timers.stdev(timed_function)}\n"
+        f"median: {Timer.timers.median(timed_function)}\n"
+    )
+    Timer.timers.clear()  # clears all the timer data
+
+```
+This will find the aggregated time spent by `my_func`. Let's go through what each one of them will log:
+
+- _count_: Number of times the function has been called.
+- _total_: Sum of all the seconds elapsed in the function
+- _max_: Maximum time spent on a single flow
+- _min_: Minimum time spent on a single flow
+- _mean_: The average of all the time spent on that function
+- _median_: The median of all elapsed time
+- _stdev_: The standard deviation of all elapsed time
+
+At the end `Timer.timers.clear()` clears the data stored In memory and starts from fresh for the next iteration.
+
+Do you want to use an in-memory LRU cache with a timeout, you may check out this article:
+
+%[https://blog.soumendrak.com/cache-heavy-computation-functions-with-a-timeout-value]
+
+I post on Python programming on my Twitter handle, you can follow me [@soumendrak_](https://www.twitter.com/soumendrak_).
+
+[My website](https://www.soumendrak.com)
