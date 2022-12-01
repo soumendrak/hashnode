@@ -1,5 +1,26 @@
 # Factory Design Pattern
 
+There are several design patterns that are commonly used in Python programming. Some of the most common design patterns include:
+
+1.  Singleton: This design pattern ensures that a class has only one instance, and provides a global point of access to it.
+    
+2.  Factory: This design pattern provides a way to create objects without specifying the exact class of object that will be created.
+    
+3.  Adapter: This design pattern allows classes with incompatible interfaces to work together by wrapping the original class and providing a new interface.
+    
+4.  Decorator: This design pattern allows new functionality to be added to an existing object without modifying its structure.
+    
+5.  Observer: This design pattern allows objects to observe and react to changes in other objects.
+    
+6.  Strategy: This design pattern allows the behavior of an algorithm to be changed at runtime.
+    
+7.  Template: This design pattern defines the skeleton of an algorithm, allowing subclasses to provide specific implementation details.
+    
+8.  Command: This design pattern allows you to encapsulate a request as an object, separating the request from the object that executes it.
+    
+
+These are just a few examples of the many design patterns that are available in Python. There are many more design patterns that can be used to solve common programming problems in Python, and choosing the right design pattern for a given situation can help to make your code more maintainable and scalable.
+
 The factory design pattern is a popular object-oriented programming technique in Python. It is used to create new objects, hiding the complexity of object creation from the user. This allows for a more flexible and modular approach to object creation, as well as promoting code reuse.
 
 The factory design pattern works by defining a factory class that is responsible for creating objects. The factory class has a method, typically called `create()`, that takes in the necessary parameters for creating an object and returns the newly created object. The user of the factory class does not need to know the details of how the object is created, they just call the `create()` method and get back the new object.
