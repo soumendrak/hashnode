@@ -62,4 +62,14 @@ If you are a podcast person, here is a list of podcasts related to Python.
 * [The Real Python Podcast](https://realpython.com/podcasts/rpp/)
 
 This list will be updated from time to time whenever required.
-Follow [soumendrak_](https://www.twitter.com/soumendrak_) for more such contents.
+
+-----
+
+Let me know what you think at any of the following places:
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/soumendrak/
+- 📝 Medium: https://medium.com/@soumendrak
+- 📖 Blog: https://blog.soumendrak.com/
+- 🐥 Twitter: https://twitter.com/soumendrak_
+- 🧑🏻‍💻 Github: https://github.com/soumendrak
+- 📹 Youtube: https://www.youtube.com/@openodia
