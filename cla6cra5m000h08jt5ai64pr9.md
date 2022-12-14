@@ -72,4 +72,3 @@ Let me know what you think at any of the following places:
 - 📖 Blog: https://blog.soumendrak.com/
 - 🐥 Twitter: https://twitter.com/soumendrak_
 - 🧑🏻‍💻 Github: https://github.com/soumendrak
-- 📹 Youtube: https://www.youtube.com/@openodia
