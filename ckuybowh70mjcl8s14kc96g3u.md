@@ -1,4 +1,4 @@
-## Random Odia Name Generator
+# Random Odia Name Generator
 
 *This article was first published on the [OpenOdia application page](https://openodia.soumendrak.com/application/)*
 ## Generate Odia names
@@ -81,3 +81,15 @@ If you find this page useful, please cite this using:
 ```
 
 [^1]: https://www.termsfeed.com/blog/gdpr-pseudonymization-anonymization/
+
+
+-----
+
+Let me know what you think at any of the following places:
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/soumendrak/
+- 📝 Medium: https://medium.com/@soumendrak
+- 📖 Blog: https://blog.soumendrak.com/
+- 🐥 Twitter: https://twitter.com/soumendrak_
+- 🧑🏻‍💻 Github: https://github.com/soumendrak
+- 📹 Youtube: https://www.youtube.com/@openodia
