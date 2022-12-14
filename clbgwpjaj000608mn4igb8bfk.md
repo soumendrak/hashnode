@@ -55,4 +55,10 @@ slice := []int{1, 2, 3, 4, 5}
 ## Conclusion
 Array and slice are two important data structures in Go that are used to store and manipulate sequences of values. While both provide similar functionality, there are some key differences between the two that are worth understanding. An array is a fixed-size data structure that stores a sequence of values of the same type, while a slice is a variable-size data structure that provides a reference to a portion of an array. An array is a value type, while a slice is a reference type. An array is passed by value to a function, while a slice is passed by reference. Understanding these differences can help you choose the right data structure for your needs and write more efficient and effective Go code.
 
-Follow me at [Twitter](https://www.twitter.com/soumendrak_)
+Let me know what you think at any of the following places:
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/soumendrak/
+- 📝 Medium: https://medium.com/@soumendrak
+- 📖 Blog: https://blog.soumendrak.com/
+- 🐥 Twitter: https://twitter.com/soumendrak_
+- 🧑🏻‍💻 Github: https://github.com/soumendrak
