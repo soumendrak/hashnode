@@ -17,4 +17,10 @@ These are the procedures that can be followed:
 
 8. Document the root cause analysis and the steps taken to fix the issue. This can help prevent future issues and provide a reference for others who may encounter similar problems. Documentation is a major part of solving issues.
 
-For more such insights follow [soumendrak_](https://www.twitter.com/soumendrak_)
+Let me know what you think at any of the following places:
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/soumendrak/
+- 📝 Medium: https://medium.com/@soumendrak
+- 📖 Blog: https://blog.soumendrak.com/
+- 🐥 Twitter: https://twitter.com/soumendrak_
+- 🧑🏻‍💻 Github: https://github.com/soumendrak
