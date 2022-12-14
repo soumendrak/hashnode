@@ -1,4 +1,4 @@
-## Increase traffic flows to your Facebook page organically
+# Increase traffic flows to your Facebook page organically
 
 
 I have been given the responsibility to manage the [Odia Wikipedia Facebook page](https://www.facebook.com/OdiaWiki/) back in April 2019; actually, I asked for that.
@@ -103,3 +103,14 @@ This list will keep on evolving….
 * [How to deal with trolls over Social media](https://blog.hootsuite.com/how-to-deal-with-trolls-on-social-media/)
 
 * [Writing for the 15 seconds attention span](https://www.wix.com/blog/content-writing/2018/12/writing-for-the-15-second-attention-span?utm_campaign=Hung%20Lee&utm_medium=email&utm_source=Revue%20newsletter)
+
+-----
+
+Let me know what you think at any of the following places:
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/soumendrak/
+- 📝 Medium: https://medium.com/@soumendrak
+- 📖 Blog: https://blog.soumendrak.com/
+- 🐥 Twitter: https://twitter.com/soumendrak_
+- 🧑🏻‍💻 Github: https://github.com/soumendrak
+- 📹 Youtube: https://www.youtube.com/@openodia
