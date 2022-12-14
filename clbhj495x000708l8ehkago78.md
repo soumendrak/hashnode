@@ -31,3 +31,11 @@ You may further be interested in:
 - [Usage of forward slash (/) in Python](https://blog.soumendrak.com/usage-of-forward-slash-in-python)
 - [5 usages of an asterisk (*) in Python](https://blog.soumendrak.com/5-usages-of-an-asterisk-in-python)
 - [Usage of the Underscore(_) in Python](https://blog.soumendrak.com/usage-of-the-underscore-in-python)
+
+Let me know what you think at any of the following places:
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/soumendrak/
+- 📝 Medium: https://medium.com/@soumendrak
+- 📖 Blog: https://blog.soumendrak.com/
+- 🐥 Twitter: https://twitter.com/soumendrak_
+- 🧑🏻‍💻 Github: https://github.com/soumendrak
