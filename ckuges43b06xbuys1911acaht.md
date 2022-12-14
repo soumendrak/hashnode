@@ -1,4 +1,4 @@
-## Odia language detection
+# Odia language detection
 
 ## Abstract
 
@@ -91,3 +91,14 @@ If you find this article helpful or influential please consider citing:
     year         = {2021}
 }
 ```
+
+-----
+
+Let me know what you think at any of the following places:
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/soumendrak/
+- 📝 Medium: https://medium.com/@soumendrak
+- 📖 Blog: https://blog.soumendrak.com/
+- 🐥 Twitter: https://twitter.com/soumendrak_
+- 🧑🏻‍💻 Github: https://github.com/soumendrak
+- 📹 Youtube: https://www.youtube.com/@openodia
