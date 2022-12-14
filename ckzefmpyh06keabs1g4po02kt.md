@@ -1,4 +1,4 @@
-## The story behind Shabdarasa (ଶବ୍ଦରସ)
+# The story behind Shabdarasa (ଶବ୍ଦରସ)
 
 Please check out the game here: **[www.ଶବ୍ଦରସ.com](https://ଶବ୍ଦରସ.com)** or **[https://sabdarasa.com](https://sabdarasa.com)**
 
@@ -326,3 +326,14 @@ If you find this article useful, please cite this using:
     year         = {2022}
 }
 ```
+
+-----
+
+Let me know what you think at any of the following places:
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/soumendrak/
+- 📝 Medium: https://medium.com/@soumendrak
+- 📖 Blog: https://blog.soumendrak.com/
+- 🐥 Twitter: https://twitter.com/soumendrak_
+- 🧑🏻‍💻 Github: https://github.com/soumendrak
+- 📹 Youtube: https://www.youtube.com/@openodia
