@@ -1,6 +1,6 @@
 # ChatGPT Alternatives
 
-In this blog post we will discuss about the upcoming LLMs (Large Language Models like ChatGPT) in 2023.
+We will discuss the upcoming LLMs (Large Language Models like ChatGPT) in 2023.
 
 * **Claude** by [Anthropic](https://www.anthropic.com/):
     
@@ -33,4 +33,4 @@ In this blog post we will discuss about the upcoming LLMs (Large Language Models
     * They are working on an open-source ChatGPT.
         
 
-With the rise of LLMs there will be more choices for users, which is a good thing. Let's see who can have extra features, reliable infra and fine tuned answers based on the need of the users.
+With the rise of LLMs, there will be more choices for users, which is a good thing. Let's see who can have extra features, reliable infra and fine-tuned answers based on the need of the users.
