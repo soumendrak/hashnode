@@ -18,7 +18,7 @@ We will discuss the upcoming LLMs (Large Language Models like ChatGPT) in 2023.
         
 * **Sparrow** by Deepmind:
     
-    * [What is Google Sparrow: the "smarter" alternative to ChatGPT](https://www.worldexcellence.com/what-is-google-sparrow-alternative-chatgpt/)
+    * Sparrow is a [research model](https://medium.com/illumination/secrets-of-deepminds-sparrow-a-big-competitor-of-chatgpt-9838a90cefb8) and proof of concept designed with the goal of training dialogue agents to be more helpful, correct, and harmless. It is not publicly available and is used for research purposes.
         
     * [Secrets of DeepMind’s Sparrow: A Big Competitor of ChatGPT | by Eleana Moore](https://medium.com/illumination/secrets-of-deepminds-sparrow-a-big-competitor-of-chatgpt-9838a90cefb8)
         
