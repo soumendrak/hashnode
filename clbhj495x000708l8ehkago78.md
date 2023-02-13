@@ -1,4 +1,4 @@
-# Usage of backward slash (\) in Python
+# The Importance of Backward Slashes in Python and How to Use Them
 
 In Python, the backslash (\\) character is used for several purposes, such as:
 
