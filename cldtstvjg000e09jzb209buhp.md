@@ -1,4 +1,4 @@
-# Amazon Interview
+# The Amazon Interview Process: What to Expect and How to Prepare
 
 ## How I landed up with an interview call?
 
