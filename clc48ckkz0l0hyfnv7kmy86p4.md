@@ -1,4 +1,4 @@
-# Python: Built-in Exceptions
+# The Beginner's Guide to Python's Built-in Exceptions
 
 Python has a number of built-in errors that can be raised when your code encounters an issue. Here is a list of some of the most common built-in errors in Python, along with code examples to illustrate how they can occur:
 
