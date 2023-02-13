@@ -1,4 +1,4 @@
-# Use Chat GPT as a Pro
+# Maximizing ChatGPT's Capabilities for Increased Productivity
 
 We already know what chatGPT is, here are a few Twitter threads on how to utilize chat GPT to its fullest.
 
