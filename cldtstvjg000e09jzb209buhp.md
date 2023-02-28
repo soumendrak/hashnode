@@ -1,4 +1,8 @@
-# The Amazon Interview Process: What to Expect and How to Prepare
+# A Guide to the Amazon Recruiting Process: What to Expect and How to Get Ready
+
+## TL;DR
+
+A Guide to the Amazon Recruiting Process: What to Expect and How to Get Ready - This article outlines the Amazon recruiting process, what to expect, and how to get prepared. It includes a breakdown of the interview rounds, the topics discussed, and the outcome. It also provides tips on how to prepare for the Amazon Leadership Principle rounds and provides a conclusion.
 
 ## How I landed up with an interview call?
 
@@ -69,8 +73,7 @@ The interviewer joined the call 10 minutes late. In this round we have discussed
 * Tell me a time when you did XYZ leadership principle in your past and what went well, and what could have been done better.
     
 
-During these ALP rounds, you have to prepare stories by taking what you have done in past in cases you may need to add a little extra even if you have not done to give the story a good shape.  
-As an interviewer, if the candidate is not strong she may get caught in the act of bluffing if you unwrap the WHYs of the story.
+Preparing stories for ALP rounds is essential. To optimize your story, make sure to include all relevant details of what you have done in the past. If needed, add a little extra information to give the story a better shape. As an interviewer, if the candidate is not strong, they may be caught bluffing if you probe the WHYs of the story.
 
 ## Fourth round (API Designing)
 
