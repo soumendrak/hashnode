@@ -1,5 +1,7 @@
 ---
 title: "10 Best Practices for your Python code"
+seoTitle: "Python Code Best Practices"
+seoDescription: "10 Best Practices for Writing Efficient Python Code: Follow PEP 8, Use Descriptive Names, Document Your Code, and More!"
 datePublished: Sat Mar 04 2023 10:31:39 GMT+0000 (Coordinated Universal Time)
 cuid: clettr9z208borqnv2lmmhol0
 slug: 10-best-practices-for-your-python-code
