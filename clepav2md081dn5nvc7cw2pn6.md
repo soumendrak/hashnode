@@ -1,4 +1,14 @@
-# What is Zero Trust?
+---
+title: "What is Zero Trust?"
+seoTitle: "Zero Trust: Explained"
+seoDescription: "Zero Trust: A security model that assumes all users, devices, and traffic are potential threats, requiring strict authentication and monitoring"
+datePublished: Wed Mar 01 2023 06:31:38 GMT+0000 (Coordinated Universal Time)
+cuid: clepav2md081dn5nvc7cw2pn6
+slug: what-is-zero-trust
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1677035505726/64cb871d-a0ec-468b-85b2-b5dc22a1c548.png
+tags: security, zerotrust, cxo, czto
+
+---
 
 The first time I heard this term I thought of it as a relationship term where couples do not trust each other. However, in the tech industry, it has a different meaning altogether. Naming things always have been a challenge and people are being creative to name things which have different meanings altogether for the common man. What do you think about the terms Zookeeper, Rust, Python, Anaconda, Jupyter, etc.
 
