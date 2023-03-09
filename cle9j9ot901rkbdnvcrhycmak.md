@@ -1,4 +1,14 @@
-# Multiple return values from a function
+---
+title: "Multiple return values from a function"
+seoTitle: "Function with multiple returns"
+seoDescription: "Learn how GoLang's support for multiple return values from a function can simplify your code and error handling"
+datePublished: Sat Feb 18 2023 05:42:39 GMT+0000 (Coordinated Universal Time)
+cuid: cle9j9ot901rkbdnvcrhycmak
+slug: multiple-return-values-from-a-function
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1676611821562/9103d75a-efdd-4409-812b-d656c1ffcac6.png
+tags: go, developer, beginners, go-lang, programming-tips
+
+---
 
 One of the features that make GoLang unique is its support for multiple return values from a function. This can be very useful in various situations, such as error handling, parsing data, and returning multiple values from a computation.
 
