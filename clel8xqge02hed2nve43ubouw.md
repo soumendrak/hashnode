@@ -1,4 +1,14 @@
-# 10 Python Libraries Every AI/ML Developer Should Know
+---
+title: "10 Python Libraries Every AI/ML Developer Should Know"
+seoTitle: "Top 10 Python Libraries for AI/ML Developers"
+seoDescription: "10 Python Libraries for AI/ML Devs: Requests, NumPy, Pandas, Matplotlib, Scikit-learn, Keras, TensorFlow, PyTorch, NLTK, and BeautifulSoup"
+datePublished: Sun Feb 26 2023 10:26:39 GMT+0000 (Coordinated Universal Time)
+cuid: clel8xqge02hed2nve43ubouw
+slug: 10-python-libraries-every-aiml-developer-should-know
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1676651780964/3d80f53c-4980-47d9-aef3-06daad710f82.png
+tags: ai, python, machine-learning, ml, python-beginner
+
+---
 
 1. Requests - Requests is a library used for making HTTP requests in Python. It provides support for handling HTTP methods like GET, POST, and DELETE, and includes features like request headers and authentication.
     
@@ -6,6 +16,7 @@
 Example code snippet:
 
 ```python
+# Handwritten
 import requests
 
 response = requests.get('https://jsonplaceholder.typicode.com/posts')
