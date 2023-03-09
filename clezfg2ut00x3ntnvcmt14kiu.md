@@ -1,5 +1,7 @@
 ---
 title: "How to validate a JSON in Python"
+seoTitle: "Validate JSON in Python"
+seoDescription: "Learn how to validate JSON in Python using JSONSchema validation to ensure data conforms to a specific schema"
 datePublished: Wed Mar 08 2023 08:37:39 GMT+0000 (Coordinated Universal Time)
 cuid: clezfg2ut00x3ntnvcmt14kiu
 slug: how-to-validate-a-json-in-python
