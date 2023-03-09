@@ -1,4 +1,14 @@
-# Concurrency and parallelism in Go
+---
+title: "Concurrency and parallelism in Go"
+seoTitle: "Go's concurrency and parallelism"
+seoDescription: "Boost Go performance with built-in concurrency and parallelism. Learn the `go` keyword for efficient code execution"
+datePublished: Sun Feb 19 2023 05:50:39 GMT+0000 (Coordinated Universal Time)
+cuid: cleayztt707f5conv6yin6ztn
+slug: concurrency-and-parallelism-in-go
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1676612232647/5051a32a-7836-4adc-b526-361f1b54a273.png
+tags: programming-blogs, go, beginners, programming-tips, codingnewbies
+
+---
 
 Boosting Go Performance: Understanding Concurrency and Parallelism for Efficient Code Execution
 
