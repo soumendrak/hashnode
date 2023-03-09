@@ -1,4 +1,14 @@
-# GitHub vs. Open Source: Understanding the Differences
+---
+title: "GitHub vs. Open Source: Understanding the Differences"
+seoTitle: "GitHub vs. Open Source: Know the Contrast"
+seoDescription: "Learn the differences between GitHub and open-source software, and how they work together in software development"
+datePublished: Sat Feb 25 2023 09:33:39 GMT+0000 (Coordinated Universal Time)
+cuid: clejrlqgp01q4c9nv60d143hh
+slug: github-vs-open-source-understanding-the-differences
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1676625724370/d9eca3e7-f5aa-4525-9c4d-2e9db4dc4a5c.png
+tags: github, opensource, git
+
+---
 
 GitHub and open-source software are two terms that are often misinterpreted; they are not the same thing. While both are essential to software development, there are significant differences between the two. In this post, we will explore the differences between GitHub and open source and how they work together.
 
