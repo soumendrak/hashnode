@@ -5,7 +5,7 @@ seoDescription: "Optimize Python with list comprehension: learn nested or double
 datePublished: Wed Nov 25 2020 13:59:00 GMT+0000 (Coordinated Universal Time)
 cuid: ckhxh4reh00bzews1b7kwdfh5
 slug: python-double-nested-for-loop-list-comprehension
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1631885988558/vBpgfQ15l.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/StvYPDirU6o/upload/a595686144447fe354dd3bbf09b8f28c.jpeg
 tags: programming-blogs, python, python3, python-beginner, python-projects
 
 ---
