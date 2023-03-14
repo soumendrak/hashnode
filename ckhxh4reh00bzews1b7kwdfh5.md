@@ -64,6 +64,10 @@ In List comprehension
 [0, 0]
 ```
 
+See how the outer for loop came first then the inner for loop
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1678766499844/89d7af34-f7bf-467b-b491-35f4ea15ec56.gif align="center")
+
 ### Double for-loops with if and else conditions
 
 ```python
