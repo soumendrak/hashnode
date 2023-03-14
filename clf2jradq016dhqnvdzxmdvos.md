@@ -1,5 +1,6 @@
 ---
 title: "Ownership and Borrowing in Rust"
+seoDescription: "Discover Rust's ownership and borrowing concepts for memory safety, error prevention, and writing secure code"
 datePublished: Fri Mar 10 2023 13:01:39 GMT+0000 (Coordinated Universal Time)
 cuid: clf2jradq016dhqnvdzxmdvos
 slug: ownership-and-borrowing-in-rust
