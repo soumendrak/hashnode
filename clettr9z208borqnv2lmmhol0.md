@@ -14,7 +14,7 @@ In this blog post, I will share ten best practices every Python developer should
 
 ## Follow PEP 8 Style Guide
 
-* The Python community has established a style guide known as PEP 8 which outlines guidelines for writing Python code. Following these guidelines makes your code more readable and easier to maintain.
+* The Python community has established a style guide, PEP 8, which outlines guidelines for writing Python code. Following these guidelines makes your code more readable and easier to maintain.
     
 * You can check out the official guide here: [https://www.python.org/dev/peps/pep-0008/](https://www.python.org/dev/peps/pep-0008/)
     
@@ -39,15 +39,15 @@ number_of_items = 5
 * Document your code using comments and docstrings. This helps other developers understand your code and makes it easier for you to maintain and modify it in the future. For example:
     
 * ```python
-        def calculate_total_price(item_prices):
-            """
-            Calculate the total price of items in a list
-        
-            :param item_prices: Price of each item 
-            :return: total price of all items
-            """
-            total_price = sum(item_prices)
-            return total_price
+          def calculate_total_price(item_prices):
+              """
+              Calculate the total price of items in a list
+          
+              :param item_prices: Price of each item 
+              :return: total price of all items
+              """
+              total_price = sum(item_prices)
+              return total_price
     ```
     
 
@@ -56,13 +56,13 @@ number_of_items = 5
 * Use list comprehension instead of loops when creating new lists. This makes your code more readable and concise. For example:
     
 * ```python
-        # Using a for loop
-        new_list = []
-        for i in range(10):
-            new_list.append(i * 2)
-        
-        # Using list comprehension
-        new_list = [i * 2 for i in range(10)]
+          # Using a for loop
+          new_list = []
+          for i in range(10):
+              new_list.append(i * 2)
+          
+          # Using list comprehension
+          new_list = [i * 2 for i in range(10)]
     ```
     
 
@@ -76,10 +76,10 @@ number_of_items = 5
 * Use exceptions to handle error conditions instead of using if-else statements. This makes your code more readable and easier to maintain. For example:
     
 * ```python
-        try:
-            result = 10 / 0
-        except ZeroDivisionError:
-            print("Cannot divide by zero")
+          try:
+              result = 10 / 0
+          except ZeroDivisionError:
+              print("Cannot divide by zero")
     ```
     
 
@@ -102,11 +102,11 @@ for i, item in enumerate(my_list):
 * Use generators instead of lists when iterating over large data sets. This saves memory and makes your code more efficient. For example:
     
 * ```python
-        # Using a list
-        my_list = [i * 2 for i in range(100000)]
-        
-        # Using a generator
-        my_generator = (i * 2 for i in range(100000))
+          # Using a list
+          my_list = [i * 2 for i in range(100000)]
+          
+          # Using a generator
+          my_generator = (i * 2 for i in range(100000))
     ```
     
 
@@ -115,14 +115,14 @@ for i, item in enumerate(my_list):
 * Use context managers to ensure that resources are adequately managed and released. This includes file I/O operations and database connections. For example:
     
 * ```python
-        # Bad example
-        f = open('file.txt', 'r')
-        data = f.read()
-        f.close()
-        
-        # Good example
-        with open('file.txt', 'r') as f:
-            data = f.read()
+          # Bad example
+          f = open('file.txt', 'r')
+          data = f.read()
+          f.close()
+          
+          # Good example
+          with open('file.txt', 'r') as f:
+              data = f.read()
     ```
     
 
@@ -131,23 +131,23 @@ for i, item in enumerate(my_list):
 * Use decorators to add functionality to functions without modifying the original function. This makes your code more readable and easier to maintain. For example:
     
 * ```python
-        def my_decorator(func):
-            def wrapper():
-                print("Before the function is called.")
-                func()
-                print("After the function is called.")
-            return wrapper
-        
-        @my_decorator
-        def say_hello():
-            print("Hello")
-        
-        say_hello()
-        
-        # Output
-        Before the function is called.
-        Hello
-        After the function is called.
+          def my_decorator(func):
+              def wrapper():
+                  print("Before the function is called.")
+                  func()
+                  print("After the function is called.")
+              return wrapper
+          
+          @my_decorator
+          def say_hello():
+              print("Hello")
+          
+          say_hello()
+          
+          # Output
+          Before the function is called.
+          Hello
+          After the function is called.
     ```
     
 
