@@ -1,4 +1,14 @@
-## In Python, do you know double for loops with conditions in a list-comprehension?
+---
+title: "Python double/nested for loop list comprehension"
+seoTitle: "Python double/nested for loop list comprehension with conditions"
+seoDescription: "Optimize Python with list comprehension: learn nested or double for-loops, if/else conditions for efficient programming. Use at your own risk."
+datePublished: Wed Nov 25 2020 13:59:00 GMT+0000 (Coordinated Universal Time)
+cuid: ckhxh4reh00bzews1b7kwdfh5
+slug: python-double-nested-for-loop-list-comprehension
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1631885988558/vBpgfQ15l.jpeg
+tags: programming-blogs, python, python3, python-beginner, python-projects
+
+---
 
 ### Single for-loop with if condition
 ``` python
