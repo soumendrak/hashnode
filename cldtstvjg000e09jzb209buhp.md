@@ -1,20 +1,28 @@
-# A Guide to the Amazon Recruiting Process: What to Expect and How to Get Ready
+---
+title: "A Guide to the Amazon Recruiting Process: What to Expect and How to Get Ready"
+datePublished: Tue Feb 07 2023 05:25:58 GMT+0000 (Coordinated Universal Time)
+cuid: cldtstvjg000e09jzb209buhp
+slug: a-guide-to-the-amazon-recruiting-process-what-to-expect-and-how-to-get-ready
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1671973927760/029f8dc4-67a5-4fe5-82ce-f65016523404.png
+tags: interview, amazon, python, interview-questions, faang
+
+---
 
 ## TL;DR
 
-A Guide to the Amazon Recruiting Process: What to Expect and How to Get Ready - This article outlines the Amazon recruiting process, what to expect, and how to get prepared. It includes a breakdown of the interview rounds, the topics discussed, and the outcome. It also provides tips on how to prepare for the Amazon Leadership Principle rounds and provides a conclusion.
+A Guide to the Amazon Recruiting Process: What to Expect and How to Get Ready - This article outlines the Amazon recruiting process, what to expect, and how to prepare. It includes a breakdown of the interview rounds, the topics discussed, and the outcome. It also provides tips on preparing for the Amazon Leadership Principle rounds and a conclusion.
 
 ## How I landed up with an interview call?
 
-I have got referred by one of my friends on the org for this post. As like always I was not prepared to qualify for a FAANG interview when the recruiter called me.
+One of my friends on the org referred me for this post. As always, I was not prepared to qualify for a FAANG interview when the recruiter called me.
 
-She should be and the people are mad about FAANG companies even after they kicked out thousands of employees like no one.
+She should be, and the people are mad about FAANG companies even after they kicked out thousands of employees like no one.
 
 ## Interview details
 
 * Job Position: System Development Engineer (L5)
     
-* Interview Process: There will be 1 round, if you qualify that there will be 3-4 more rounds then the results will be announced by HR. It was not series-like crossing level after level, unlike my previous interviews.
+* Interview Process: There will be 1 round; if you qualify that there will be 3-4 more rounds, then the results will be announced by HR. It was not series-like crossing level after level, unlike my previous interviews.
     
 * Years of experience at the time of applying: 9
     
@@ -27,9 +35,9 @@ She should be and the people are mad about FAANG companies even after they kicke
 
 *June 2021,* Telephonic Chime (like Skype) call
 
-My first round of discussion was with a system development engineer who has been working for amazon for more than 2 years. She has asked me questions on the followings:
+My first round of discussion was with a system development engineer who has worked for amazon for over two years. She has asked me questions on the followings:
 
-* We discussed my experiences in UI tools, Python, Network Automation script writing, Auditing, Infrastructure automation and AWS Cloud.
+* We discussed my experiences in UI tools, Python, Network Automation script writing, Auditing, Infrastructure automation, and AWS Cloud.
     
 * Context Manager and in which case will you be using a context manager and in which case a decorator; excellent question.
     
@@ -42,7 +50,7 @@ Two short coding problems
     
 * Write a class
     
-    * which takes a first name, last name and age as parameters
+    * that takes a first name, last name, and age as parameters
         
     * Auto-populate the creation date
         
@@ -55,7 +63,7 @@ I cleared this round.
 
 *After a week of the first round.*
 
-In this round, we did behavioural discussions based on [Amazon leadership principles](https://amazon.jobs/content/en/our-workplace/leadership-principles)(ALP) and something along the line of:
+In this round, we did behavioral discussions based on [Amazon leadership principles](https://amazon.jobs/content/en/our-workplace/leadership-principles)(ALP) and something along the line of:
 
 * AWS components: ECS, Lambda, DynamoDB, Quickshift
     
@@ -68,12 +76,12 @@ In this round, we did behavioural discussions based on [Amazon leadership princi
 
 *One day after the second round.*
 
-The interviewer joined the call 10 minutes late. In this round we have discussed on few Amazon leadership principles:
+The interviewer joined the call 10 minutes late. In this round, we have discussed on few Amazon leadership principles:
 
-* Tell me a time when you did XYZ leadership principle in your past and what went well, and what could have been done better.
+* Tell me when you did XYZ leadership principle in your past and what went well, and what could have been done better.
     
 
-Preparing stories for ALP rounds is essential. To optimize your story, make sure to include all relevant details of what you have done in the past. If needed, add a little extra information to give the story a better shape. As an interviewer, if the candidate is not strong, they may be caught bluffing if you probe the WHYs of the story.
+Preparing stories for ALP rounds is essential. To optimize your account, including all relevant details of what you have done in the past. If needed, add a little extra information to shape the story better. As an interviewer, if the candidate is not strong, they may be caught bluffing if you probe the WHYs of the story.
 
 ## Fourth round (API Designing)
 
@@ -87,7 +95,7 @@ We discussed my skills on the following topics:
     
 * Monolithic and distributed server; why and hows
     
-* Designing an API which involved network devices, laptops, scanners, and IoTs.
+* Designing an API that involved network devices, laptops, scanners, and IoTs.
     
 
 It went well. We got our thought process aligned on many points.
@@ -96,19 +104,19 @@ It went well. We got our thought process aligned on many points.
 
 *One week after the fourth round.*
 
-The interviewer was serious and the first thing that came out of his mouth was a question like a bullet. We discussed the followings:
+The interviewer was severe, and the first thing that came out of his mouth was a question like a bullet. We discussed the followings:
 
 * Design a system with N hosts/servers at M number of sites/locations.
     
-    You have to schedule a job on the host to pull camera footage from the server and save it locally for export by humans.
+    You have to schedule a job on the host to pull camera footage from the server and save it locally for human export.
     
     The server count and the location count can be received from another service.
     
-    You cannot schedule more than 1 job per host at any given time.
+    You cannot schedule multiple jobs per host at any given time.
     
-    The camera data currently lives locally on each server for the cameras that it handles and we have frequent adds and deletes.
+    The camera data currently lives locally on each server for the cameras it handles, and we have frequent adds and deletes.
     
-* We discussed the above problem throughout on:
+* We discussed the above problem throughout:
     
     * Data Flow
         
@@ -134,11 +142,11 @@ His general advice:
 * Be open to feedback and **act upon them**
     
 
-The discussion was ok. I did not excel with flares on the other hand it was not pathetic either.
+The discussion was ok. I did not excel with flares. On the other hand, it was not pathetic either.
 
 ## Sixth round (ALP)
 
-*This round got rescheduled for 3 times, and finally, on the fourth, the force acted in my favour. Two weeks after the fifth round.*
+*This round was rescheduled for three times, and finally, on the fourth, the force acted in my favor two weeks after the fifth round.*
 
 ALP's theme was *Invent and Simplify.* Which has probable questions like this:
 
@@ -150,7 +158,7 @@ ALP's theme was *Invent and Simplify.* Which has probable questions like this:
     
 * Tell me about a time you had to think outside the box (think creatively) to close a sale or sell your product.
     
-* What is the most innovative project you’ve worked on?
+* What is the most innovative project you've worked on?
     
 
 ### Coding Question
@@ -169,20 +177,20 @@ erik=0
 charles=4231
 
 Write a program that removes the duplicate lines and sorts the pairs by value.  
-\* value is the integer assigned, duplicate lines are defined by the full-text line, not the key.
+\* value is the integer assigned; duplicate lines are defined by the full-text line, not the key.
 
 I have written one with all logs, Exception handling, and Edge case handling. This interviewer was more empathetic and logical than the rest of the interviewees so far.
 
 ## Seventh round (HR)
 
-* The HR explained to me about RSU, ESOP, Shares and Prorated concept.
+* The HR explained RSU, ESOP, Shares, and Prorated concepts to me.
     
 * I negotiated and requested to give me some time to decide.
     
 
 ## The Offer 🙂
 
-* Finally, got an offer from a FAANG company. (Do we care after the 2022 Layoffs?)
+* Finally, I got an offer from a FAANG company. (Do we care after the 2022 Layoffs?)
     
 
 ## Lessons Learnt
@@ -192,4 +200,4 @@ I have written one with all logs, Exception handling, and Edge case handling. Th
 
 ## Conclusion
 
-We have discussed my first interview experience where I got an offer on this platform. We have discussed the different rounds and processes in Amazon. If you have any specific questions you can ask me over [LinkedIn](https://www.linkedin.com/in/soumendrak/) or [Twitter](https://twitter.com/soumendrak_).
+We have discussed my first interview experience, where I got an offer on this platform. We have discussed the different rounds and processes in Amazon. You can ask me any specific questions over [LinkedIn](https://www.linkedin.com/in/soumendrak/) or [Twitter](https://twitter.com/soumendrak_).
