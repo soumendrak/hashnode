@@ -18,4 +18,4 @@ OpenAI released its latest LLM, [GPT-4](https://openai.com/research/gpt-4), on 1
     
 3. The [new Bing](https://www.bing.com/new) runs on ChatGPT-4: [Confirmed: the new Bing runs on OpenAI’s GPT-4 | Bing Search Blog](https://blogs.bing.com/search/march_2023/Confirmed-the-new-Bing-runs-on-OpenAI%E2%80%99s-GPT-4)
     
-4. [Poe.com](http://Poe.com) from Quora: Limited access, only 1 query per day.
+4. [Poe.com](http://Poe.com) from Quora: If without a subscription, limited access, only 1 query per day.
