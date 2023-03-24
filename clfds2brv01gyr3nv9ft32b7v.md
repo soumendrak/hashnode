@@ -10,14 +10,13 @@ tags: python, python3, property, decorators, getter-and-setter
 
 ---
 
-Here's an outline for a blog post on Python's `@property` decorator:
 
 1. Introduction  
     Sure! Here's an introduction to Python's `@property` decorator with code snippets:
     
-    In Python, a decorator is a special function that can modify other functions' behavior. You can think of decorators as a way to "wrap" one function with another. This can be useful for adding functionality to functions without changing their code.
+    In Python, a decorator is a unique function that can modify other functions' behavior. You can think of decorators as a way to "wrap" one function with another. This can be useful for adding functionality to functions without changing their code.
     
-    One built-in decorator in Python is `@property`, which is used with the `property()` function. Here's an example that shows how you can use `@property` to define a read-only property for a class:
+    One built-in decorator in Python is `@property`, used with the `property()` function. Here's an example that shows how you can use `@property` to define a read-only property for a class:
     
     ```python
     class Circle:
