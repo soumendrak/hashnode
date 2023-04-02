@@ -118,3 +118,7 @@ Do not you feel shame showing your face in this society and world?
 
 Your ancestors in heaven are disappointed,  
 By forgetting their life, you are just regretting...!!!
+
+---
+
+[ସୁଶ୍ରୀ ସଙ୍ଗୀତାଙ୍କୁ](https://twitter.com/SangitaSethy) ତାଙ୍କର ବହୁ ଉପାଦେୟ ଉନ୍ନତ ଲେଖା ମତାମତ ପାଇଁ ଅନେକ ଅନେକ ଧନ୍ୟବାଦ 🙏🏼
