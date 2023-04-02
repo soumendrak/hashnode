@@ -19,7 +19,7 @@ tags: languages, india, odia, odisha, motherland
 
 If you are being called a child of Utkal (present-day Odisha),  
 then why are you a coward,  
-when your mother cries, why don't you say a word?
+When your mother cries, why do you afraid to utter a word?
 
 ତୋ ପୂର୍ବପୁରୁଷେ ବୀର ପଣିଆରେ  
 ଲଭିଥିଲେ କେତେ ଖ୍ୟାତି,  
@@ -35,7 +35,7 @@ Why does your chest shiver to say your pain to the officer (demanding what is ri
 କେଉଁଗୁଣେ ତାଙ୍କୁ ସରି ?
 
 If your ancestors had conquered from the Ganges to the Godavari river,  
-By taking birth from them, in which way are you comparable?
+By taking birth from them, in which way are you comparable either?
 
 ତୁ ମନେ ଭାବିଛୁ ତୋଷାମଦ କରି  
 ବଢାଇବୁ ଜାତି ମାନ,  
@@ -50,7 +50,7 @@ Flattering is the behavior of a dog that gets what others have left.
 ଭୃତ୍ୟଭାବ ଧରି ଗୋଡ ଚାଟୁ ଚାଟୁ  
 ବିଷ ଲେପି ଦେଇଥାଏ ।
 
-A flattering person is a disguised dog, hard to recognize,  
+A flattering person is a disguised dog, hard to get recognition,  
 while licking your leg as a servant, it will paste poison.
 
 ତୋଷାମଦ ଅଟେ ଅନ୍ଧାର ଗୋହିରି  
@@ -58,24 +58,24 @@ while licking your leg as a servant, it will paste poison.
 ସରଳ ପଥିକ ବାଟରେ ଭେଟିଲେ  
 ଅକାତରେ ତାକୁ ନାଶେ ।
 
-Flattering is a dark tunnel where selfishness stays hidden,  
-when it meets any simple passenger, it kills them.
+Flattering is a dark tunnel where selfishness remains hidden,  
+when it meets any simple traveller, it kills them without hesitation!
 
 ଜାତିର ଉନ୍ନତି ହେବ କିରେ ଭାଇ  
 ସ୍ୱାର୍ଥକୁ ଜଗତ ମଣି ?  
 ଗୋଦର ଗୋଡରେ ମାଉଁସ ଲାଗିଲେ  
 ଦେହର କି ଶୁଭ ଗଣି ?
 
-Will the nation's progress ever happen  
-if we take selfishness as the holy grail of the world?  
-If an Elephantiasis leg gets more flesh, will it benefit the body?
+Will the nation's progress ever happen if we take selfishness as the holy grail of the world,  
+Will it benefit his body if an Elephantiasis leg gets more flesh onward!
 
 ଜାତିର ଉନ୍ନତି ସେ କାହୁଁ କରିବ  
 ସ୍ୱାର୍ଥେ ଯାର ବ୍ୟସ୍ତ ମନ,  
 ଶାଗୁଣା ବିଲୁଆ ଚିକିତ୍ସକ ହେଲେ  
 ଶବ କି ପାଇବ ପ୍ରାଣ ?
 
-Why will those who are busy with their agenda think about the nation's progress? If foxes and vultures (who eat the dead) will become doctors, will the dead body be alive?
+Why will they think about the nation's progress, whose minds are busy with selfishness?  
+If foxes and vultures (who eat the dead) become doctors, will the dead body be alive at once?
 
 ଜାତି ନନ୍ଦିଘୋଷ ଚଳିବ କି ଭାଇ  
 ସ୍ୱାର୍ଥକୁ ସାରଥୀ କଲେ,  
