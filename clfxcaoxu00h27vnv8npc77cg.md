@@ -27,7 +27,7 @@ When your mother cries, why do you afraid to utter a word?
 କିମ୍ପା ଥରେ ତୋର ଛାତି ?
 
 By their bravery, your ancestors earned so popularity,  
-Why does your chest shiver to say your pain to the officer (demanding what is rightfully yours)?
+Why does your chest shiver to intimate your pain to the authority (demanding what is rightfully yours)?
 
 ତୋ ପୂର୍ବପୁରୁଷେ ଜୟ କରିଥିଲେ  
 ଗଙ୍ଗା ଠାରୁ ଗୋଦାବରୀ,  
@@ -116,8 +116,8 @@ Do not you feel shame showing your face in this society and world?
 ତାଙ୍କରି ଜୀବନ କରି ବିସ୍ମରଣ  
 କରୁଛୁ ତୁ ମନସ୍ତାପ…!!!
 
-Your ancestors in heaven are disappointed,  
-By forgetting their life, you are just regretting...!!!
+Your ancestors are disappointed even there in heaven,  
+By forgetting their lifelong sacrifice, you are just in contrition!
 
 ---
 
