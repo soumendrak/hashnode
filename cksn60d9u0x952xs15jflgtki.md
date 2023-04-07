@@ -11,13 +11,15 @@ tags: programming-blogs, python, python3, meetup, python-projects
 
 ---
 
+## Introduction
+
 I was one of the reviewers for Talk proposals at [PyCon (Python Conference) India 2019](https://in.pycon.org/2019/), which happened in Chennai. This article is written to help someone with the submission of CFP in future PyCon India, especially how their proposals will get reviewed.
 
 There were around 280 Talk proposals received. We had to limit the numbers to below 30. There was a hefty amount of work involved.
 
 Each selected proposal has to go through three stages.
 
-**Stages of a Talk proposal:**
+## **Stages of a Talk proposal:**
 
 * CFP coordinators review phase
     
@@ -26,7 +28,7 @@ Each selected proposal has to go through three stages.
 * Final review phase by CFP coordinators and organizers
     
 
-**The narrowing down process:**
+## **The narrowing down process:**
 
 Almost 150 proposals got rejected due to the following:
 
@@ -78,6 +80,8 @@ The rest of the Talks were categorized into the followings:
 * There were beginner-friendly talks and Intermediate and expert talks as classified by the proposer. Based on that, I had to think from an audience point of view.
     
 
+## Feedback to Talk Proposers
+
 These are a few recommendations we have provided to the proposers based on their CFP:
 
 * Talks with a lot of information that needs to be squeezed in,
@@ -99,9 +103,9 @@ These are a few recommendations we have provided to the proposers based on their
 * Talks about promoting their product
     
 
-**Selection process:**
+## **Selection process:**
 
-* Each talk needs to be reviewed by at least two reviewers, and some talks received more than 10 votes. The average of the reviewers’ votes was used to sort out Talks.
+* Each talk needs to be reviewed by at least two reviewers; few received more than 10 votes. The average of the reviewers’ votes was used to sort out Talks.
     
 * The Talks were selected across the categories based on the number of attendees shown interest in each category. However, they were dropped if the Talks were not up to the mark.
     
@@ -114,7 +118,7 @@ These are a few recommendations we have provided to the proposers based on their
 * Finally, 33 Talks were selected.
     
 
-**My reviewing process:**
+## **My reviewing process:**
 
 * I was the only reviewer and fortunate one selected to review proposals across six categories.
     
@@ -122,12 +126,12 @@ These are a few recommendations we have provided to the proposers based on their
     
 * Initially, reviewing each proposal took around 40 to 75 minutes to me. As I got habituated to the review process, my reviewing speed increased.
     
-* I learned a bit from each proposal, both from the CFPs, which also got qualified and had not. I searched the internet for the terms/concepts I did not know about to have an idea of the Talk.
+* I learned a bit from each proposal, both from the CFPs, who also got qualified, and had not. I searched the internet for the terms/concepts I did not know about to understand the Talk.
     
 * August 2019 was an exciting month. I have learned a lot of new concepts and gained industry knowledge.
     
 
-**Setbacks:**
+## **Setbacks:**
 
 * There were talks which I would have loved to attend at the conference. However, the competition from other proposals was so intense that these talks could not make it. Heartbroken.
     
@@ -138,7 +142,7 @@ As a reviewer, I have tried to be neutral and unbiased. If you have liked/dislik
 
 Thank you, and all the best if you are submitting a proposal.
 
-### Important Links
+## Important Links
 
 * [PyCon India 2019 conference videos](https://www.youtube.com/watch?v=VUT386_GKI8&list=PL6GW05BfqWIfsflQt05LM3FTX6cd7PGps)
     
