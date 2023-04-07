@@ -1,4 +1,15 @@
-## How did we select 30 talks from 280+ talk proposals received in Pycon India 2019?
+---
+title: "The Inside Story of How We Selected 30 Talks from 280+ Proposals for Pycon India 2019"
+seoTitle: "Selecting 30 talks for Pycon India 2019"
+seoDescription: "Learn how 30 talks were selected from over 280 proposals for PyCon India 2019, including stages of the process, categories, and selection criteria"
+datePublished: Fri Jun 26 2020 06:30:21 GMT+0000 (Coordinated Universal Time)
+cuid: cksn60d9u0x952xs15jflgtki
+slug: pycon-india-cfp-review
+canonical: https://soumendrak.medium.com/pycon-india-cfp-review-849ed045d50b
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1629634423896/WzTurM67a.png
+tags: programming-blogs, python, python3, meetup, python-projects
+
+---
 
 
 I was one of the reviewers for Talk proposals in [PyCon (Python Conference) India 2019](https://in.pycon.org/2019/), which happened in Chennai. This article is written to help someone for submission of CFP in future PyCon India. Especially how their proposals will get reviewed.
