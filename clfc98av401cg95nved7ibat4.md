@@ -14,7 +14,7 @@ tags: nlp, llm, chatgpt, promptengineering, bard
 
 Prompt engineering is a technique used in natural language processing (NLP) that involves designing and creating prompts to generate desired outputs from an NLP model. In simpler terms, prompt engineering is crafting prompts or questions to get a specific response or answer from an AI model.
 
-Prompt engineering is used in various NLP applications, including chatbots, question-answering systems, and language translation. Developers can train AI models to respond accurately and appropriately to user queries by designing effective prompts, thereby improving the overall user experience.
+Prompt engineering is used in various NLP applications, including chatbots, question-answering systems, and language translation. Developers can train AI models to respond accurately and appropriately to user queries by designing effective prompts, improving the overall user experience.
 
 Here are some of the critical steps involved in prompt engineering:
 
@@ -33,7 +33,7 @@ There are different types of prompts that you can use in prompt engineering. Her
     
 2. Retrieval prompts are designed to retrieve specific information from a database or knowledge graph. Retrieval prompts are helpful in applications such as search engines, recommendation systems, and knowledge management systems.
     
-3. Question-answering prompts: These prompts are designed to answer specific questions the user asks. Question-answering prompts are helpful in applications such as chatbots, virtual assistants, and customer support systems.
+3. Question-answering prompts: These prompts are designed to answer the user's specific questions. Question-answering prompts are helpful in applications such as chatbots, virtual assistants, and customer support systems.
     
 
 Other than these, many advanced prompting techniques have been designed to improve performance on complex tasks. Which can be divided as:
@@ -42,7 +42,7 @@ Other than these, many advanced prompting techniques have been designed to impro
     
     1. Few-shot prompting allows us to provide exemplars in prompts to steer the model toward better performance
         
-    2. ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1677467818862/aa3ca314-d362-4b4a-a70f-a0ebd064b35d.png align="center")
+    2. ![a screen shot of a text message with numbers in it](https://cdn.hashnode.com/res/hashnode/image/upload/v1677467818862/aa3ca314-d362-4b4a-a70f-a0ebd064b35d.png align="center")
         
 2. Chain-of-thought (CoT) prompting:
     
@@ -50,7 +50,7 @@ Other than these, many advanced prompting techniques have been designed to impro
         
     2. You can also do zero-shot CoT where exemplars are not available.
         
-    3. ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1677468052385/6a843170-0654-44a6-b5fa-cf73b6e6ace0.png align="center")
+    3. ![CoT prompting](https://cdn.hashnode.com/res/hashnode/image/upload/v1677468052385/6a843170-0654-44a6-b5fa-cf73b6e6ace0.png align="center")
         
         Chain-of-thought prompting enables large language models to tackle complex arithmetic, commonsense, and symbolic reasoning tasks. Chain-of-thought reasoning processes are highlighted.
         
@@ -62,9 +62,9 @@ Other than these, many advanced prompting techniques have been designed to impro
         
     3. This helps to boost the performance of CoT prompting on tasks involving arithmetic and commonsense reasoning.
         
-    4. ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1677471207737/1371559f-288d-4650-adbe-b1e0b8b2c092.png align="center")
+    4. ![a computer screen showing a text message that reads, when i was 6 my sister](https://cdn.hashnode.com/res/hashnode/image/upload/v1677471207737/1371559f-288d-4650-adbe-b1e0b8b2c092.png align="center")
         
-        ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1677471998179/b8a96691-244b-4ea0-a487-a31c85eeb92e.png align="center")
+        ![a screen shot of a text message](https://cdn.hashnode.com/res/hashnode/image/upload/v1677471998179/b8a96691-244b-4ea0-a487-a31c85eeb92e.png align="center")
         
 4. Knowledge Generation Prompting:
     
@@ -80,15 +80,15 @@ Other than these, many advanced prompting techniques have been designed to impro
         
         • Highest-confidence prediction is used
         
-    6. ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1677472414752/33f84af7-9632-4887-9729-eda7df8e30d7.png align="center")
+    6. ![a diagram of a class diagram](https://cdn.hashnode.com/res/hashnode/image/upload/v1677472414752/33f84af7-9632-4887-9729-eda7df8e30d7.png align="center")
         
         Generated knowledge prompting involves (a) using few-shot demonstrations to generate question-related knowledge statements from a language model; (b) using a second language model to make predictions with each knowledge statement, and then selecting the highest-confidence prediction.
         
     7. Generated knowledge prompting relies on external sources of information, while chain of thought prompting relies on internal associations and connections.
         
-    8. Thefirststepistogenerateknowledge. Below is an example of how to generate the knowledge samples:
+    8. The first step is to generate knowledge. Below is an example of how to generate the knowledge samples:
         
-    9. ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1677472837399/b8e60ca4-9f3f-4114-81b6-4e196d3f2c2c.png align="center")
+    9. ![a screen shot of a text message](https://cdn.hashnode.com/res/hashnode/image/upload/v1677472837399/b8e60ca4-9f3f-4114-81b6-4e196d3f2c2c.png align="center")
         
         The knowledge samples are then used to create knowledge-augmented questions to get answer proposals. The highest-confidence response is selected as the final answer:
         
@@ -110,7 +110,7 @@ Other than these, many advanced prompting techniques have been designed to impro
         
     5. ReAct improves human interpretability and trustworthiness over methods without reasoning or acting components.
         
-    6. ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1677473335296/b17d32bc-0c0d-4f1a-a092-86fd239e2e21.png align="center")
+    6. ![a screen shot of a computer screen with a text description](https://cdn.hashnode.com/res/hashnode/image/upload/v1677473335296/b17d32bc-0c0d-4f1a-a092-86fd239e2e21.png align="center")
         
 
 In conclusion, prompt engineering is an essential technique in NLP that can help developers create more accurate and effective AI models. By following the key steps involved in prompt engineering and using the appropriate types of prompts, developers can design models that meet the needs of their users and provide a better overall user experience.
