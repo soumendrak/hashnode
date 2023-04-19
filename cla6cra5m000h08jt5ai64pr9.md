@@ -16,7 +16,7 @@ Here is a list of materials to help beginners in Python programming:
 
 Here you can try on coding on the browser itself without installing anything.
 
-* https://www.learnpython.org/
+* [https://www.learnpython.org/](https://www.learnpython.org/)
     
 * [Codecademy](https://www.codecademy.com/learn/learn-python-3)
     
@@ -91,6 +91,13 @@ If you are a podcast person, here is a list of podcasts related to Python.
 * [Talk Python To Me](https://talkpython.fm/)
     
 * [The Real Python Podcast](https://realpython.com/podcasts/rpp/)
+    
+
+## Twitter List
+
+This Twitter list contains 50+ Twitter users who post on the latest developments, tutorials, and other posts on the Python programming language—compiled by yours truly.
+
+* [Python News](https://twitter.com/i/lists/1270832890134159360)
     
 
 This list will be updated from time to time whenever required.
