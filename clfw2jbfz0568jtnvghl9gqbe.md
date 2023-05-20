@@ -12,7 +12,7 @@ tags: python, gc, programming-tips, garbagecollection, garbage-collector
 
 ## Introduction
 
-Garbage collection (GC) is a crucial mechanism in programming languages, streamlining memory allocation and deallocation for your applications. Acting as the unsung hero, it automatically reclaims unused memory in your program, enabling you to concentrate on crafting efficient and effective code. GC ensures your applications run seamlessly by preventing memory leaks and minimizing the chances of crashes or slowdowns. In this blog post, we'll explore the intricacies of Python's garbage collection process. So, let's embark on our journey to comprehend these potent memory management tools!
+[Garbage collection (GC)](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)) is a crucial mechanism in [programming languages](https://en.wikipedia.org/wiki/Programming_language), streamlining memory allocation and deallocation for your applications. Acting as the unsung hero, it automatically reclaims unused memory in your program, enabling you to concentrate on crafting efficient and effective code. GC ensures your applications run seamlessly by preventing [memory leaks](https://en.wikipedia.org/wiki/Memory_leak) and minimizing the chances of crashes or slowdowns. In this blog post, we'll explore the intricacies of Python's garbage collection process. So, let's embark on our journey to comprehend these potent memory management tools!
 
 ## Importance of GC
 
