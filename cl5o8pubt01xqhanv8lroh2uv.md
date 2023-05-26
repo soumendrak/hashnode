@@ -25,7 +25,6 @@ I have tried IE, Edge, Safari, Opera, Maxthon, Avant, Vivaldi, etc. I have been 
     * Brave I use Google Input tools add-on to write into Odia Wikipedia and make [Shabdarasa](https://www.sabdarasa.com) posts in Odia.
         
     * To try out new Chromium-based Add-ons.
-        
 
 ## Firefox Browser Extensions/Add-ons
 
@@ -110,5 +109,36 @@ I have tried IE, Edge, Safari, Opera, Maxthon, Avant, Vivaldi, etc. I have been 
     
 * I have been experimenting with this Add-on and have not settled yet.
     
+## Microsoft Edge Browser Extensions/Add-ons
+Around the end of 2022, I switched to Edge from Firefox. Initially, it started for the Google Input Tools Add-On, but later on, I discovered many good browser features. Here are the top extensions I use in Edge.
 
-I would love to know any other super valuable add-on for you, and I should try that out. You can follow me on Twitter [@soumendrak\_](https://twitter.com/soumendrak_) to get more such updates.
+### [Dark Reader](https://microsoftedge.microsoft.com/addons/detail/dark-reader/ifoakfbpdcdoeenechcleahebpibofpc)
+* I use this for Dark mode reading on any website.
+* Pretty useful during the post-dinner readings.
+
+### [Grammarly](https://microsoftedge.microsoft.com/addons/detail/grammarly-grammar-checke/cnlefmmeadmemmdciolhbnfeacpdfbkd)
+* I have been a subscriber to Grammarly.
+* This Add-on helps me to write error-free and grammatically correct sentences.
+
+### [SponsorBlock](https://sponsor.ajay.app/)
+* SponsorBlock is an open-source crowdsourced browser extension and open API for skipping sponsor segments in YouTube videos.
+* There are currently 13,033,165 users who have submitted 13,574,856 skip segments, which have saved 1210 years and 363.22 days of people's lives.
+* The power of people.
+
+### [Firefox Relay](https://chrome.google.com/webstore/detail/firefox-relay/lknpoadjjkjcmjhbjpcljdednccbldeb)
+* Though I left Firefox, I could not leave this extension.
+* Firefox Relay makes it easy to create email masks that forward to your true inbox.
+Firefox Relay helps you protect your actual email address — the one most closely tied to your online identity. 
+* It lets you generate unique, random aliases (up to 5 in the free tier) to sign up for accounts, apps, or newsletters and forward messages to your address. If you find that an account is sending unwanted emails or spam, you can block the alias, and it will stop sending emails to your inbox. Once you no longer want an account, you can delete the alias.
+
+### [Readwise](https://chrome.google.com/webstore/detail/readwise/egfepjgjabnppmaiadpedbgadkcelcbd) and [Readwise Highlighter](https://chrome.google.com/webstore/detail/readwise-highlighter/jjhefcfhmnkfeepcpnilbbkaadhngkbi)
+
+### [Spirtz](https://chrome.google.com/webstore/detail/spritz/llgdihpoebhhmkdfabfhflonfkkmeblk)
+* Read your favorite web content twice as fast with far greater comprehension.
+Welcome to the future of reading! Spritz scans the written content of any website (including your favorite news sites) and visually reads it back to you at up to 1000 words per minute. 
+* The patented rapid-fire, single-word display feature is fully adjustable, so you can train your brain to read up to 2x faster.
+
+### [Video speed controller](https://github.com/igrigorik/videospeed)
+* HTML5 video/audio speed controller, with which you can go up to the speed of 4x or more.
+
+I would love to know any other super valuable add-on for you, and I should try that out. You can follow me on Twitter [@soumendrak\_](https://twitter.com/soumendrak_) for more such updates.
