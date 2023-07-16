@@ -9,6 +9,21 @@ tags: mysql, databases, partition, database-partitioning, databasemanagement
 
 ---
 
+## Why are Partitions Essential? 🤔
+
+A few partitions, like India and Pakistan, were not essential, but partitioning an SQL table might be necessary based on the use cases.
+
+You have created the best schema for your table. All were going smoothly. Clients are happy, DevOps teams are so glad, less expense on Infra; Cloud is the best.
+
+* **<mark>Latency:</mark>** However, as the clients increase and your management feels happy, the table expands with rows and rows of data every second. Your DB JOIN queries have become slower. That Index is also throwing results after an increased latency. What is the solution?
+    
+* **<mark>Size:</mark>** There are millions of rows you do not need, but to delete those will take days, and it may end up as a time-out and, in the worst case, data corruption. What is the solution?
+    
+* **<mark>Cost:</mark>** The table size reached into TBs, the replica you have created for high availability adding another few TBs extra. The AWS or any other cloud instance sends you large bills for the data you do not need. What is the solution?
+    
+
+## Dynamic partition creation ♻
+
 MySQL (v5.7.41 onwards) snippet for partitioning your table by a DATETIME data type column.
 
 ```sql
@@ -17,7 +32,7 @@ CREATE TABLE `awesome_product` (
   `id` bigint(20) unsigned NOT NULL AUTO_INCREMENT,
   `account_id` bigint(10) unsigned NOT NULL,
   `product_id` bigint(10) unsigned NOT NULL,
-  `created_at` DATETIME NOT NULL,
+  `created_at` DATETIME(6) NOT NULL,
   PRIMARY KEY (`id`, `created_at`),
 ) ENGINE=InnoDB AUTO_INCREMENT=0 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci
 PARTITION BY LIST(month(created_at)%3) (
@@ -42,22 +57,74 @@ ALTER TABLE awesome_product TRUNCATE PARTITION p0;
         
 * If you want to keep more months of data, you may increase the % three formula to a higher number.
     
-* You can manually remove the records of partition p1 using the alter truncate command provided above. However, we can schedule to automatically.ally
+* You can manually remove the records of partition p1 using the alter truncate command provided above. However, we can schedule it automatically.
     
 
-## Why are Partitions Essential?
+## Event for auto truncation of partition ☠️
 
-A few partitions, like India and Pakistan, were not essential, but partitioning an SQL table might be necessary based on the use cases.
+An event can be created per the above schema to delete the oldest partition before the new month's data is ingested.
 
-You have created the best schema for your table. All were going smoothly. Clients are happy, DevOps teams are so glad, less expense on Infra; Cloud is the best.
+```sql
+DROP EVENT IF EXISTS awesome_product_truncate_partition; 
+delimiter $$
+ 
+CREATE EVENT awesome_product_truncate_partition  
+    ON SCHEDULE 
+        EVERY '1' DAY
+    DO 
+        BEGIN
+            DECLARE day_of_month SMALLINT;
+            DECLARE month_of_year SMALLINT;
+            DECLARE NOW DATETIME;
+            SET NOW = NOW();
+            SET day_of_month = dayofmonth(NOW); 
+            SET month_of_year = MONTH(NOW); 
+        IF day_of_month >= 22 AND day_of_month <=28 THEN
+            CASE month_of_year % 3 
+                WHEN 0 THEN ALTER TABLE awesome_product TRUNCATE PARTITION p1;
+                WHEN 1 THEN ALTER TABLE awesome_product TRUNCATE PARTITION p2;
+                WHEN 2 THEN ALTER TABLE awesome_product TRUNCATE PARTITION p0;
+            END CASE; 
+        END IF;
+    END
+$$
+```
 
-* **<mark>Latency:</mark>** However, as the clients increase and your management feels happy, the table expands with rows and rows of data every second. Your DB JOIN queries have become slower. That Index is also throwing results after an increased latency. What is the solution?
+* We have created a daily MySQL event kind of CRON job.
     
-* **<mark>Size:</mark>** There are millions of rows that you do not need, but to delete those will take days, and it may end up as time-out and, in the worst case, data corruption. What is the solution?
+* It tries to delete the oldest partition on the 22nd of every month. Suppose it could not truncate on the 22nd; it retries again on the 23rd, 24th, till 28th.
     
-* **<mark>Cost:</mark>** The table size reached into TBs, the replica you have created for high availability adding another few TBs extra. The AWS or any other cloud instance sends you large bills for the data you do not need. What is the solution?
+* As every month has a minimum of 28 days, we have taken a maximum of 28 as the retry date.
+    
+* Around 7 days retry period is taken for truncation of the oldest partition.
     
 
-We will see how Partition can solve these issues and automatic subroutine for Partition deletion on the upcoming blog.
+## Data retention period ⏳
 
-To be continued...
+With the above dynamic partition and event, let's calculate the minimum days' data will get stored in the table.
+
+* Suppose we inserted a row on 28 Feb. It will be inserted on the partition, p2, i.e., 2 % 3
+    
+* March 1 will go to p0
+    
+* 22 March p1 will get truncated
+    
+* 22 April, p2 will get truncated.
+    
+* Therefore our data has a minimum retention period of <mark>1 month and 21 days.</mark>
+    
+* You can change the modulo divisor (in this case, 3) to increase or decrease retention. Or You can use a year-wise partition.
+    
+
+## Summary 📝
+
+In this post, we learned the following:
+
+1. Why do we need to partition our tables
+    
+2. How to create dynamic partitions and
+    
+3. How to create an event to delete the oldest partition
+    
+
+Thank you.
