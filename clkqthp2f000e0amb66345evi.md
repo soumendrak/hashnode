@@ -13,7 +13,7 @@ tags: cloudflare, migration, carrd, cloudflare-pages
 
 ## Back story
 
-I got my eyes on carrd.co when I saw it was (still is, AFAIK) the only No-code platform that allows you to create static single-page websites (for portfolio, landing page, etc.) for just $19 per year. Yes, not per month but per year. During the Black Friday week, I got a good deal and upgraded to the highest-ever tier there. However, I soon realize I do not use many features and do not need to update my static sites frequently. Also, I do not feel it is satisfying enough to be a full-stack developer without a code tool. IMO, No-code tools are excellent for building up something quickly but a pain to the wallet in the long run. Therefore, I migrated from carrd.co and found Cloudflare pages, a free alternative. Hence this blog post.
+I got my eyes on carrd.co when I saw it was (still is, AFAIK) the only No-code platform that allows you to create static single-page websites (for portfolio, landing page, etc.) for just $19 per year. Yes, not per month but per year. During the Black Friday week, I got a good deal and upgraded to the highest-ever tier there. However, I soon realize I do not use many features and do not need to update my static sites frequently. Also, I do not feel it is satisfying enough to be a full-stack developer with a No-code tool. No-code tools are excellent for building up something quickly but are a pain to the wallet in the long run. Therefore, I migrated from carrd.co and found Cloudflare pages, a free alternative. Hence this blog post.
 
 ## Prerequisites
 
