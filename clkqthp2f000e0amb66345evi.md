@@ -11,7 +11,11 @@ tags: cloudflare, migration, carrd, cloudflare-pages
 
 [Carrd.co](https://carrd.co) is a single-page website builder with a no-code paid tool. [Cloudflare Pages](https://pages.cloudflare.com/) is a JAMstack platform for front-end developers to collaborate and deploy websites. In this blog post, I will describe how to move your static website from Carrd.co (Paid) to [Cloudflare pages](https://pages.cloudflare.com/) (Free). Let's start.
 
-## Requirements
+## Back story
+
+I got my eyes on carrd.co when I saw it is the only No-code platform that allows you to create static single-page websites (for portfolio, landing page, etc.) for just $19 per year. Yes, not per month but per year. During the Black Friday week, I got a good deal and upgraded to the highest-ever tier there. However, I soon realize I do not use many of the features and do not need to update my static sites frequently. Also, I do not feel it is satisfying enough to be a full-stack developer without a code tool. IMO, No-code tools are excellent for building up something quickly but a pain to the wallet in the long run. Therefore, I migrated from carrd.co and found Cloudflare pages, a free alternative. Hence this blog post.
+
+## Prerequisites
 
 1. Carrd.co pro account, which supports the download of the website
     
@@ -29,8 +33,6 @@ tags: cloudflare, migration, carrd, cloudflare-pages
 1. First, log in to your carrd.co account
     
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1690800023889/c79e00ee-b126-42c9-9109-3dc6ea635294.png align="center")
-    
-      
     
 2. Go to the site you want to migrate. Click on the \`Manage this site\` gear icon.
     
@@ -85,7 +87,6 @@ Though you can directly upload the downloaded file to Cloudflare Pages, we will 
         
         ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1690801406860/6a7a8b3e-a9c5-4515-b40b-9b8b50cb6bb6.png align="center")
         
-          
         Click on the \`Commit and Push\` button.
         
     6. ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1690801457284/8deab3b4-007f-4099-83f5-3a198ce1914f.png align="center")
@@ -103,13 +104,9 @@ Now we will link the GitHub repo to Cloudflare Pages. On the Cloudflare page, we
     
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1690801962175/0aa001f5-85e0-467d-b3a9-dd528b7f259b.png align="center")
     
-      
-    
 4. Click on the 'Pages' tab, then on 'Connect to Git.'
     
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1690802186889/e979c96f-a5ba-418d-999a-1db483609a5b.png align="center")
-    
-      
     
 5. Set up GitHub if not done before. Then check if the newly created repository is visible if not, provide access to that repo to Cloudflare by clicking on the Cloudflare pages.
     
@@ -119,13 +116,9 @@ Now we will link the GitHub repo to Cloudflare Pages. On the Cloudflare page, we
     
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1690802482615/f2bb18d9-ce3b-47a7-96e2-38af94600fb1.png align="center")
     
-      
-    
 7. Click on the repo in Cloudflare now by reloading the page or following the same steps from 3 to 6. Click Begin Setup.
     
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1690802662858/abcaa8e4-5ad9-4e32-95d8-811b3f3ca862.png align="center")
-    
-      
     
 8. I have a plain static HTML site, so no framework needs to be selected.
     
@@ -139,13 +132,9 @@ Now we will link the GitHub repo to Cloudflare Pages. On the Cloudflare page, we
     
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1690803142094/dcaa5965-1822-4933-b395-c372567fc0bf.png align="center")
     
-      
-    
 10. Click on the 'custom domain' tab to link to your previous custom domain. Click 'Set up a custom domain'
     
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1690803247676/eade532c-8e1c-434a-8c8b-34cf7bdf56cf.png align="center")
-    
-      
     
 11. Fill out the site and click on the Continue button. Do not use http/https
     
