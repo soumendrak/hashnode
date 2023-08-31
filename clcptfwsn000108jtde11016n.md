@@ -1,4 +1,12 @@
-# Maximizing ChatGPT's Capabilities for Increased Productivity
+---
+title: "Maximizing ChatGPT's Capabilities for Increased Productivity"
+datePublished: Tue Jan 10 2023 05:52:19 GMT+0000 (Coordinated Universal Time)
+cuid: clcptfwsn000108jtde11016n
+slug: use-chat-gpt-as-a-pro
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1673329894301/cb1e8625-0e87-4ce4-b8d0-b741fd85ec5b.png
+tags: ai, tools, gpt-3, openai, chatgpt
+
+---
 
 We already know what chatGPT is, here are a few Twitter threads on how to utilize chat GPT to its fullest.
 
