@@ -1,4 +1,13 @@
-## Fake DP
+---
+title: "Tricks to manually detect AI-generated fake images"
+seoDescription: "Detect fake AI images: check eye alignment, missing earrings/ears, floating hair, unclear backgrounds, uneven pupils. Be vigilant on social media."
+datePublished: Tue Mar 29 2022 08:27:36 GMT+0000 (Coordinated Universal Time)
+cuid: cl1bvm4fu04ss80nv5u6l5w5a
+slug: tricks-to-manually-detect-ai-generated-fake-images
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1648540059268/stSr3UnSV.jpg
+tags: ai, github, opensource, images, social-media
+
+---
 
 ## Introduction
 
