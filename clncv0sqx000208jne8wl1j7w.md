@@ -106,7 +106,7 @@ Initially, I was a bit unhappy that with only three days left, we got around 150
 
 ### Proposals race 🐎
 
-We have received a total of 302 proposals with the following distribution:
+We have received a total of 303 proposals with the following distribution:
 
 * 7 Devsprints proposals
     
@@ -150,7 +150,7 @@ Let's break down how the Talk proposals narrowed down over the rounds.
         
 * We have allowed the submission of proposals till August end. There were medical cases where we made exceptions.
     
-* In this stage of our process, we received over 280 proposals and unfortunately had to reject around 150 of them. Our aim was to decrease the number of rejections to below 50 for this round. To ensure proposers were aware of their status, we sent multiple reminders through Junction. These reminders were sent one week, two weeks, and then one month after the initial submission. However, we did receive feedback from some proposers who were not receiving emails about Junction's comments. As a result, we sent one final reminder email to all proposers to double-check their review comments.
+* In this stage of our process, we received over 280 proposals and unfortunately had to reject around 150 of them. We aimed to decrease the number of rejections to below 50 for this round. To ensure proposers knew their status, we sent multiple reminders through Junction. These reminders were sent one week, two weeks, and one month after the initial submission. However, we did receive feedback from some proposers who were not receiving emails about Junction's comments. As a result, we sent one final reminder email to all proposers to double-check their review comments.
     
 * Unfortunately, among all the proposals, 99 of them were not able to undergo review due to insufficient materials provided.
     
@@ -159,12 +159,12 @@ Let's break down how the Talk proposals narrowed down over the rounds.
 
 * We have thoroughly reviewed the remaining 130 proposals a minimum of three times. Using the Junction tools, we ensured that at least three reviewers voted for every proposal.
     
-* Each proposal was given a score ranging from -2 (lowest) to 3 (highest). However, due to time constraints and the absence of a minimum of three reviewers in all categories, we sought additional assistance and proceeded to the third round.
+* Each proposal was scored from -2 (lowest) to 3 (highest). However, due to time constraints and the absence of a minimum of three reviewers in all categories, we sought additional assistance and proceeded to the third round.
     
 
 #### 3rd round
 
-* For this round, we needed additional reviewers, so the Core team members and experienced volunteers who had previously done reviews joined the CFP team to provide assistance. We reviewed proposals that were missed in Junction, specifically those with less than three reviewer votes.
+* We needed additional reviewers for this round, so the Core team members and experienced volunteers who had previously done reviews joined the CFP team to assist. We reviewed proposals missed in Junction, specifically those with less than three reviewer votes.
     
 * We also reviewed any proposals marked as Promotional. Our goal was to ensure that all second-round qualified proposals were reviewed by at least three reviewers by the end of this round.
     
@@ -273,7 +273,7 @@ In these seven months, I learned many things:
 
 *Volunteers at PyCon India 2023 closing ceremony. P.C.:* [*Animesh Ghosh*](https://x.com/theOnlyMaDDogx/status/1708476003805470805?s=20)
 
-PyCon India is run entirely by volunteers who bring in sponsors, organize the event, and even pay for their own tickets. As a core team member, I have witnessed the remarkable effort and energy a few dedicated volunteers put into the conference. This demonstrates the strength of human beings, as not all actions are driven by monetary gain. When a cause is inspiring enough, it can unite many individuals to work towards a common goal, whether the Indian independence movement or organizing an event. The cause is what truly matters. I want to thank the [other workgroup leads](https://web.archive.org/web/20231002020435/https://in.pycon.org/2023/volunteers/workgroup-leads/) and volunteers for doing their responsibilities to make this conference possible.
+PyCon India is run entirely by volunteers who bring in sponsors, organize the event, and even pay for their tickets. As a core team member, I have witnessed the remarkable effort and energy a few dedicated volunteers put into the conference. This demonstrates the strength of human beings, as not all actions are driven by monetary gain. When a cause is inspiring enough, it can unite many individuals to work towards a common goal, whether the Indian independence movement or organizing an event. The cause is what truly matters. I want to thank the [other workgroup leads](https://web.archive.org/web/20231002020435/https://in.pycon.org/2023/volunteers/workgroup-leads/) and volunteers for doing their responsibilities to make this conference possible.
 
 I am thrilled to extend my heartfelt appreciation to my fantastic co-lead, [Dr. Murali](https://www.linkedin.com/in/muralidharan-murugesan-050a4727/), who stepped up and seamlessly took on my duties whenever urgent matters cropped up over seven months.
 
