@@ -277,7 +277,7 @@ The event, PyCon India, is run entirely by volunteers who bring in sponsors, org
 
 I am thrilled to extend my heartfelt appreciation to my fantastic co-lead, [Dr. Murali](https://www.linkedin.com/in/muralidharan-murugesan-050a4727/), who stepped up and seamlessly took on my duties whenever urgent matters cropped up over seven months.
 
-🎖️Thanks to the heart and soul of the workgroup, [Aman Pandey](https://www.linkedin.com/in/aman5319/), [Ashok Tankala](https://www.linkedin.com/in/ashoktankala), [Koti Vellanki](https://www.linkedin.com/in/vellankikoti/), [Mohit Bansal](https://www.linkedin.com/in/emhtbnsl/), [Pavan G](https://in.linkedin.com/in/pavan-g-71236420b), and Samir Thakkar, without whom it would not have been possible to review 300+ proposals.
+🎖️Thanks to the heart and soul of the workgroup, [Aman Pandey](https://www.linkedin.com/in/aman5319/), [Ashok Tankala](https://www.linkedin.com/in/ashoktankala), [Koti Vellanki](https://www.linkedin.com/in/vellankikoti/), [Mohit Bansal](https://www.linkedin.com/in/emhtbnsl/), [Pavan G](https://in.linkedin.com/in/pavan-g-71236420b), and [Samir Thakkar](https://twitter.com/WoneAdvisers), without whom it would not have been possible to review 300+ proposals.
 
 I thank the platform lead, [Ananyo](https://www.linkedin.com/in/maitiananyo/), who had been resolving all the Junction issues within 24 hours to unblock the CFP team.
 
