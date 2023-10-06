@@ -250,21 +250,27 @@ This Section is for you if you are a future PyCon India or any other conference 
 
 In these seven months, I learned many things:
 
-1. I will do it if I have committed to delivering task A, which significantly impacts other human beings. It does not matter if I am getting paid for it or not. It does not matter if I get support from others or not.
+1. **Self-realization:** I will do it if I have committed to delivering task A, which significantly impacts other human beings. It does not matter if I am getting paid for it or not. It does not matter if I get support from others or not.
     
-2. For the CFP workgroup, I tried to manage most of the tasks asynchronously over Zulip and WhatsApp rather than frequent meetings where all participants needed to meet. During the later parts, I made weekly calls and took asynchronous updates from reviewers. Too many synchronous meetings (every participant needs to be there simultaneously) are for people with poor written communication skills, lack of motivation, or less accountability.
+2. **Asynchronous communication:** For the CFP workgroup, I tried to manage most of the tasks asynchronously over Zulip and WhatsApp rather than frequent meetings where all participants needed to meet. During the later parts, I made weekly calls and took asynchronous updates from reviewers. Too many synchronous meetings (every participant needs to be there simultaneously) are for people with poor written communication skills, lack of motivation, or less accountability.
     
-3. I should have divided the proposals and assigned them to individuals to review rather than asking them to pick up from their preferred category. Often, people want to get specific tasks, and someone else takes care of the bigger picture.
+3. **Better planning of tasks:** I should have divided the proposals and assigned them to individuals to review rather than asking them to pick up from their preferred category. Often, people want to get specific tasks, and someone else takes care of the bigger picture.
     
-4. Time and Energy management across office work, M.Tech, [my other volunteering works](https://www.soumendrak.com/#360146baddc94b1b9d62fa61bfcbe211), and PyCon was challenging. Active prioritization and energy management helped me throughout the journey. This helped during the event days as well.
+4. **Time and Energy Management:** Time and Energy management across office work, M.Tech, [my other volunteering works](https://www.soumendrak.com/#360146baddc94b1b9d62fa61bfcbe211), and PyCon was challenging. Active prioritization and energy management helped me throughout the journey. This helped during the event days as well.
     
-5. Some proposers did not like that their proposal was not selected. One even threatened to complain against me in the Indian ministry. I ignored the threat. Through years of experience in social media and online forums, I have learned where to give my attention.
+5. **Proposer Threats:** Some proposers did not like that their proposal was not selected. One even threatened to complain against me in the Indian ministry. I ignored the threat. Through years of experience in social media and online forums, I have learned where to give my attention.
     
-6. The [Junction tool](https://github.com/pythonindia/junction) is not fully matured. After a particular stage in the review process, we were forced to migrate to Google Sheets for proposals and reviewer management. As the only consumer with superuser access in Junction, I will help the Junction lead, Ananyo, to add more features.
+6. **Junction Tool:** The [Junction tool](https://github.com/pythonindia/junction) is not fully matured. After a particular stage in the review process, we were forced to migrate to Google Sheets for proposals and reviewer management. As the only consumer with superuser access in Junction, I will help the Junction lead, Ananyo, to add more features.
     
-7. While buying tickets, we could have asked the attendees about the top 3 categories of Talks they wanted to attend, but we missed adding that. That would have made our job easier to select proposals across categories.
+7. **Attendees preference:** While buying tickets, we could have asked the attendees about the top 3 categories of Talks they wanted to attend, but we missed adding that. That would have made our job easier to select proposals across categories.
     
-8. One thing that became clear was that we would not be able to make every attendee happy with the proposal selection or schedule preparation. However, we have tried our best to give the majority of attendees an excellent, unforgettable experience.
+8. **Pressure on last rounds:** The last three rounds were conducted in a mere seven to ten days. I should have planned better and reduced the number of Talks needed to qualify for further rounds.
+    
+9. **Attention to other tracks:** Other than Talks and Workshops, I did not give any attention to Poster presentations, Software exhibits, or promotion of other tracks; this could have been improved.
+    
+10. **Proposals and Generative AI:** A few proposals have been made entirely out of chatGPT, and even the source code went undetected till the later stage of the conference. For future CFP teams, it will be trickier to identify whether AI made an excellent first impression but, deep down, low-quality proposals.
+    
+11. **Making everyone happy:** One thing that became clear was that we would not be able to make every attendee happy with the proposal selection or schedule preparation. However, we have tried our best to give the majority of attendees an excellent, unforgettable experience.
     
 
 ## Acknowledgment
