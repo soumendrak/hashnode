@@ -12,6 +12,8 @@ tags: cfp, pycon, pyconindia2023, pyconindia, pycon2023
 
 ## Introduction
 
+If you are part of the CFP group in PyCon India or any other conference, this post is for you. I have mentioned my learnings and working process of the CFP workgroup in PyCon India 2023.
+
 I was one of the CFP (Call For Proposal) reviewers at [PyCon (Python Conference) India 2019, Chennai](https://in.pycon.org/2019/). If you want to learn about my experience there, check out my article on [The Inside Story of How We Selected 30 Talks from 280+ Proposals for Pycon India 2019](https://blog.soumendrak.com/pycon-india-cfp-review).
 
 Post-2019 edition, PyCon India is back to the offline conference in 2023, and Soumendra also returns as a volunteer. For the 2023 edition, I have volunteered to be the CFP lead. We will briefly discuss the pre-event timeline.
@@ -59,19 +61,19 @@ These terms will help you understand this post better.
 
 ## Reviewer Management 🪄
 
-As a CFP lead, you are aware of the vital role in managing reviewers. This task is only second to managing proposals, which is the top priority. Your responsibilities include motivating volunteers to review, being empathetic, and ensuring work is completed throughout the five-month process. With your dedication and guidance, you can inspire your team to achieve great results.
+As a CFP lead, you know the vital role of managing reviewers. This task is only second to managing proposals, which is the top priority. Your responsibilities include motivating volunteers to review, being empathetic, and ensuring work is completed throughout the five-month process. You can inspire your team to achieve great results with your dedication and guidance.
 
-In a corporate setting, leading people may seem easier as I have previously managed teams of ten to fifteen individuals. However, managing volunteers who are not obligated to complete tasks and only work on a voluntary basis without any compensation presents a challenge.
+Leading people may seem more manageable in a corporate setting, as I have previously managed teams of ten to fifteen individuals. However, managing volunteers who are not obligated to complete tasks and only work voluntarily without compensation presents a challenge.
 
 ### Reviewers drop 😭
 
 According to analysis, the reason why some reviewers left PyCon can be attributed to the following factors:
 
-1. Some individuals were merely curious about how PyCon works and were not truly interested in contributing to the event. For all of the reviewers in this category this blog post if for you.
+1. Some individuals were curious about how PyCon works and were not genuinely interested in contributing to the event. For all of the reviewers in this category, this blog post is for you.
     
 2. As a Reviewer, one cannot submit a proposal to prevent any bias in the review process. This requirement caused many reviewers to leave.
     
-3. The job of a reviewer is both thankless and tiring, as it requires evaluating each proposal for 30-45 minutes. To be a reviewer, one needs focus, dedication, and perseverance.
+3. The reviewer's job is both thankless and tiring, as it requires evaluating each proposal for 30-45 minutes. To be a reviewer, one needs focus, dedication, and perseverance.
     
 4. Volunteers for the conference do not receive free tickets or any additional facilities.
     
@@ -88,7 +90,7 @@ This issue is common across Wikipedia, Mozilla, and other volunteer-driven proje
 
 75+ volunteers signed up to be a reviewer. Twenty-five joined on the first call, and by the end of five months, there were around six left.
 
-One positive aspect of volunteer-led initiatives is that the individuals who remain committed until the end are usually highly motivated. They can often surpass expectations by ten to one hundred times. If their opinions are respected and they are granted autonomy, they are likely to exceed expectations even further.
+One positive aspect of volunteer-led initiatives is that the individuals who remain committed until the end are usually highly motivated. They can often surpass expectations by ten to one hundred times. If their opinions are respected and granted autonomy, they will likely exceed expectations even further.
 
 ## Proposals Management 📒
 
@@ -150,7 +152,7 @@ Let's break down how the Talk proposals narrowed down over the rounds.
         
 * We have allowed the submission of proposals till August end. There were medical cases where we made exceptions.
     
-* In this stage of our process, we received over 280 proposals and unfortunately had to reject around 150 of them. We aimed to decrease the number of rejections to below 50 for this round. To ensure proposers knew their status, we sent multiple reminders through Junction. These reminders were sent one week, two weeks, and one month after the initial submission. However, we did receive feedback from some proposers who were not receiving emails about Junction's comments. As a result, we sent one final reminder email to all proposers to double-check their review comments.
+* In this process stage, we received over 280 proposals and unfortunately had to reject around 150 of them. We aimed to decrease the number of rejections to below 50 for this round. To ensure proposers knew their status, we sent multiple reminders through Junction. These reminders were sent one week, two weeks, and one month after the initial submission. However, we did receive feedback from some proposers who were not receiving emails about Junction's comments. As a result, we sent one final reminder email to all proposers to double-check their review comments.
     
 * Unfortunately, among all the proposals, 99 of them were not able to undergo review due to insufficient materials provided.
     
@@ -279,7 +281,7 @@ In these seven months, I learned many things:
 
 *Volunteers at PyCon India 2023 closing ceremony. P.C.:* [*Animesh Ghosh*](https://x.com/theOnlyMaDDogx/status/1708476003805470805?s=20)
 
-PyCon India is run entirely by volunteers who bring in sponsors, organize the event, and even pay for their tickets. As a core team member, I have witnessed the remarkable effort and energy a few dedicated volunteers put into the conference. This demonstrates the strength of human beings, as not all actions are driven by monetary gain. When a cause is inspiring enough, it can unite many individuals to work towards a common goal, whether the Indian independence movement or organizing an event. The cause is what truly matters. I want to thank the [other workgroup leads](https://web.archive.org/web/20231002020435/https://in.pycon.org/2023/volunteers/workgroup-leads/) and volunteers for doing their responsibilities to make this conference possible.
+PyCon India is run entirely by volunteers who bring in sponsors, organize the event, and even pay for their tickets. As a core team member, I have witnessed the remarkable effort and energy a few dedicated volunteers put into the conference. This demonstrates the strength of human beings, as not all actions are driven by monetary gain. When a cause is inspiring enough, it can unite many individuals to work towards a common goal, whether it is the Indian independence movement or organizing an event. The cause is what truly matters. I want to thank the [other workgroup leads](https://web.archive.org/web/20231002020435/https://in.pycon.org/2023/volunteers/workgroup-leads/) and volunteers for doing their responsibilities to make this conference possible.
 
 I am thrilled to extend my heartfelt appreciation to my fantastic co-lead, [Dr. Murali](https://www.linkedin.com/in/muralidharan-murugesan-050a4727/), who stepped up and seamlessly took on my duties whenever urgent matters cropped up over seven months.
 
@@ -298,7 +300,7 @@ I volunteered for this edition of PyCon for
 a) PyCon India is back to the offline conference after a gap of 4 years,  
 b) I wouldn't say I liked that PyCon India did not happen last year in 2022 for the first time since its inception in 2009.
 
-On the days of the event, I have contributed to the registration desk session monitor/chair at various tracks. Maybe I will share those experiences in another post.
+On the days of the event, I contributed to the registration desk session monitor/chair at various tracks. Maybe I will share those experiences in another post.
 
 In this post, we discussed the overall process of the CFP workgroup since its inception and the challenges faced in between. Thank you.
 
