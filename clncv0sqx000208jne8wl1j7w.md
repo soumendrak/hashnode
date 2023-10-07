@@ -88,7 +88,7 @@ This issue is common across Wikipedia, Mozilla, and other volunteer-driven proje
 
 *The trend of the number of attendees in the weekly call of the CFP workgroup.*
 
-75+ volunteers signed up to be a reviewer. Twenty-five joined on the first call, and by the end of five months, there were around six left.
+75+ volunteers signed up to be a reviewer. Twenty-five joined on the first call, and by the end of five months, there were around six left. With less Reviewer: Proposal ratio, later on, we moved to generalists rather than experts to review the proposals.
 
 One positive aspect of volunteer-led initiatives is that the individuals who remain committed until the end are usually highly motivated. They can often surpass expectations by ten to one hundred times. If their opinions are respected and granted autonomy, they will likely exceed expectations even further.
 
@@ -152,7 +152,9 @@ Let's break down how the Talk proposals narrowed down over the rounds.
         
 * We have allowed the submission of proposals till August end. There were medical cases where we made exceptions.
     
-* In this process stage, we received over 280 proposals and unfortunately had to reject around 150 of them. We aimed to decrease the number of rejections to below 50 for this round. To ensure proposers knew their status, we sent multiple reminders through Junction. These reminders were sent one week, two weeks, and one month after the initial submission. However, we did receive feedback from some proposers who were not receiving emails about Junction's comments. As a result, we sent one final reminder email to all proposers to double-check their review comments.
+* In 2019, we received over 280 proposals in this process stage and unfortunately had to reject around 150. We aimed to decrease the number of rejections to below 50 for this round in this edition. To ensure proposers knew their status, we sent multiple reminders through Junction. These reminders were sent one week, two weeks, and one month after the initial submission.
+    
+* However, we did receive feedback from some proposers who were not receiving emails about Junction's comments. As a result, we sent one final reminder email to all proposers to double-check their review comments.
     
 * Unfortunately, among all the proposals, 99 of them were not able to undergo review due to insufficient materials provided.
     
