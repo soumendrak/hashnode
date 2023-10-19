@@ -82,7 +82,7 @@ According to analysis, the reason why some reviewers left PyCon can be attribute
 6. It's possible that some reviewers didn't like the CFP lead. 🫣
     
 
-This issue is common across Wikipedia, Mozilla, and other volunteer-driven projects I contribute to.
+Volunteer drop issue is common across Wikipedia, Mozilla, and other volunteer-driven projects I contribute to.
 
 ![a line graph showing the number of volunteers vs date](https://cdn.hashnode.com/res/hashnode/image/upload/v1694186297186/fb151871-f3ee-48f9-b872-ca1676aae7d6.png align="center")
 
@@ -96,7 +96,7 @@ One positive aspect of volunteer-led initiatives is that the individuals who rem
 
 To know more about the proposal category trends across previous editions, please follow my blog post, [PyCon India 2023 Proposals Analysis (](https://blog.soumendrak.com/an-analysis-of-pycon-india-2023-proposals)[soumendrak.com](http://soumendrak.com)[)](https://blog.soumendrak.com/an-analysis-of-pycon-india-2023-proposals).
 
-Once the Junction tool is ready with data backup of previous editions and Category &lt;&gt; Reviewer mapping.
+Once the Junction tool was ready with data backup of previous editions and Category &lt;&gt; Reviewer mapping, we opened the CFP submission.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1696356177782/f9db40e5-699e-4021-897f-63c9450b84b8.png align="center")
 
