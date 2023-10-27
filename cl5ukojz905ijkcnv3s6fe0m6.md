@@ -1,4 +1,14 @@
-# Productive Mac Apps
+---
+title: "Productive Mac Apps"
+datePublished: Thu Jul 21 2022 05:08:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl5ukojz905ijkcnv3s6fe0m6
+slug: productive-mac-apps
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1658292984606/fM6SHT77N.png
+tags: mac, productivity, macbook, tools, macos
+
+---
+
+*Edit: Updated on 28-10-2023*
 
 I have been using a MacBook pro since the end of 2019. These are the different apps I use which are super productive for me:
 
@@ -28,12 +38,28 @@ I have been using a MacBook pro since the end of 2019. These are the different a
     
     * I use Thunderbird as my all-in-one email client.
         
+* [LanguageTool - Online Grammar, Style & Spell Checker](https://languagetool.org/)
+    
+    * Alternative to Grammarly: almost all features and cheaper.
+        
+* [f.lux: software to make your life better (](https://justgetflux.com/)[justgetflux.com](http://justgetflux.com)[)](https://justgetflux.com/)
+    
+    * Screen color changer for betterment of eyes
+        
+* [Espanso - A Privacy-first, Cross-platform Text Expander](https://espanso.org/)
+    
+    * An ultimate productivity tool to save typing characters.
+        
+* [AppCleaner (](https://freemacsoft.net/appcleaner/)[freemacsoft.net](http://freemacsoft.net)[)](https://freemacsoft.net/appcleaner/)
+    
+    * Deletes all residual files from Apps.
+        
 
 Other notable Apps:
 
 * [OBS](https://obsproject.com/) for Video shooting and live streaming
     
-* [Notion](https://www.notion.so/) for note taking
+* [Notion](https://www.notion.so/) for note-taking
     
 * [Google Earth Pro](https://www.google.com/earth/about/) for Maps and Time Travel
     
@@ -50,6 +76,20 @@ Other notable Apps:
 * [PyCharm Pro](https://www.jetbrains.com/pycharm/) for professional Python projects
     
 * [Webstorm](https://www.jetbrains.com/webstorm/) for UI development
+    
+* [Beeper — All your chats in one app. Yes, really.](https://www.beeper.com/)
+    
+* [Rectangle Mac (](https://rectangleapp.com/)[rectangleapp.com](http://rectangleapp.com)[)](https://rectangleapp.com/)
+    
+    * Move and resize windows in macOS using keyboard shortcuts or snap areas
+        
+* [IINA - The modern media player for macOS](https://iina.io/) (Open Source GPLv3)
+    
+* [Pandan — Sindre Sorhus](https://sindresorhus.com/pandan)
+    
+    * Time awareness on the menu bar to know how much time you have been on your Mac
+        
+* [Latest (](https://max.codes/latest/)[max.codes](http://max.codes)[)](https://max.codes/latest/) : Software update tracker
     
 
 What other Mac OS App do you use which is helpful to you? You can follow me on Twitter [@soumendrak\_](https://www.twitter.com/soumendrak_)
