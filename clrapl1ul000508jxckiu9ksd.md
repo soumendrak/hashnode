@@ -33,6 +33,13 @@ tags: devops, mlops, llm, llmops
 
 * LLMOps, or Large Language Model Operations, is a specialized subset of MLOps that focuses on the unique challenges of deploying and maintaining large language models (LLMs) like GPT-4 or Claude\[[3](https://dzone.com/articles/introduction-to-llmops)\].
     
+* While LLMOps can be considered a subset of MLOps (Machine Learning Operations), there are critical differences between the two, primarily due to the differences in building AI products with classical ML models and LLMs.
+    
+    * In LLMOps, an already pre-trained model is used. However, in MLOps, all models (except Computer Vision) are trained from scratch.
+        
+    
+    * Choosing a stable foundation model (base LLM) is crucial for LLMOps.
+        
 * These complex models require significant resources, making their operationalization a distinct field within AI operations\[[6](https://www.pluralsight.com/resources/blog/data/what-is-llmops)\].
     
 * LLMOps involves managing the entire lifecycle of LLMs, including development, deployment, monitoring, and governance, focusing on efficiency, scalability, and reliability\[[9](https://www.leewayhertz.com/what-is-llmops/)\]\[[12](https://aisera.com/blog/llmops/)\].
@@ -48,6 +55,65 @@ tags: devops, mlops, llm, llmops
     
 * Without a structured and managed approach to incorporating LLMs into applications, estimating future costs becomes complex and uncertain.
     
+
+### Stages in LLMOps
+
+There are various stages in LLMOps:
+
+1. Model selection phase  
+    In this phase, you need to select the LLM.
+    
+    1. Proprietary models like GPT and Claude
+        
+    2. Open-source models like LLaMA2, Flacon, and Mistral or
+        
+    3. Self-fine-tuning models on top of any of the above two categories of models.
+        
+
+1. Adaptation phase
+    
+    1. Fine-Tuning → Make LLM expert on a specific domain/topic
+        
+    2. Prompting
+        
+    3. Re-Training
+        
+    4. RLHF or RLAIF or DPO
+        
+    5. RAG
+        
+
+1. Evaluation
+    
+
+1. Deployment
+    
+    1. Model distillation, Pruning, Quantization, or similar variants
+        
+    2. Model Quantization
+        
+        1. bitsnadbytes → Fine Tuning
+            
+        2. [GPTQ](https://github.com/ist-daslab/gptq) → Generation
+            
+    3. The process to get better-merged models
+        
+        1. Quantize the base model using bitsandbytes
+            
+        2. Add and fine-tune the adapters
+            
+        3. Merge the trained adapters on top of the base model or the dequantized model.
+            
+        4. Quantize the merged model using GPTQ and use it for deployment
+            
+
+1. Data Privacy
+    
+
+1. Monitoring
+    
+    1. [Weights and Biases](https://wandb.ai/site/monitoring)
+        
 
 ### Best practices for LLMOps
 
