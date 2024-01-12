@@ -6,9 +6,43 @@ datePublished: Wed Mar 08 2023 08:37:39 GMT+0000 (Coordinated Universal Time)
 cuid: clezfg2ut00x3ntnvcmt14kiu
 slug: how-to-validate-a-json-in-python
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1677313589599/b6429d6b-9e9c-4664-a87a-c997d5ca4e4c.png
-tags: python, json, apis, api-testing, json-schema
+tags: python, json, apis, api-testing, json-schema, pydantic
 
 ---
+
+*Edit on 13 Jan 2024:*
+
+Pydantic looks to be a better alternative than the schema validation mentioned in the original post below. Please look into [JSON - Pydantic](https://docs.pydantic.dev/2.5/concepts/json/) to learn how to validate and parse a JSON using Pydantic. Here is a code snippet from the documentation:
+
+```python
+from datetime import date
+from pydantic import BaseModel, ConfigDict, ValidationError
+
+
+class Event(BaseModel):
+    model_config = ConfigDict(strict=True)
+    when: date
+    where: tuple[int, int]
+
+
+json_data = '{"when": "1987-01-28", "where": [51, -1]}'
+print(Event.model_validate_json(json_data))  
+#> when=datetime.date(1987, 1, 28) where=(51, -1)
+
+try:
+    Event.model_validate({'when': '1987-01-28', 'where': [51, -1]})  
+except ValidationError as e:
+    print(e)
+    """
+    2 validation errors for Event
+    when
+      Input should be a valid date [type=date_type, input_value='1987-01-28', input_type=str]
+    where
+      Input should be a valid tuple [type=tuple_type, input_value=[51, -1], input_type=list]
+    """
+```
+
+*Original Post:*
 
 ## Introduction
 
