@@ -37,7 +37,6 @@ tags: devops, mlops, llm, llmops
     
     * In LLMOps, an already pre-trained model is used. However, in MLOps, all models (except Computer Vision) are trained from scratch.
         
-    
     * Choosing a stable foundation model (base LLM) is crucial for LLMOps.
         
 * These complex models require significant resources, making their operationalization a distinct field within AI operations\[[6](https://www.pluralsight.com/resources/blog/data/what-is-llmops)\].
@@ -69,8 +68,7 @@ There are various stages in LLMOps:
         
     3. Self-fine-tuning models on top of any of the above two categories of models.
         
-
-1. Adaptation phase
+2. Adaptation phase
     
     1. Fine-Tuning → Make LLM expert on a specific domain/topic
         
@@ -78,15 +76,13 @@ There are various stages in LLMOps:
         
     3. Re-Training
         
-    4. RLHF or RLAIF or DPO
+    4. RLHF or RLAIF, or DPO
         
     5. RAG
         
-
-1. Evaluation
+3. Evaluation
     
-
-1. Deployment
+4. Deployment
     
     1. Model distillation, Pruning, Quantization, or similar variants
         
@@ -106,11 +102,9 @@ There are various stages in LLMOps:
             
         4. Quantize the merged model using GPTQ and use it for deployment
             
-
-1. Data Privacy
+5. Data Privacy
     
-
-1. Monitoring
+6. Monitoring
     
     1. [Weights and Biases](https://wandb.ai/site/monitoring)
         
@@ -125,7 +119,7 @@ Several best practices have been identified to overcome these challenges and ens
     
 * **Efficient Resource Allocation:** LLMOps ensure access to suitable hardware resources for efficient fine-tuning while monitoring and managing resource allocation.
     
-* **Evaluation:** LLMOps tools can be used for LLM-based application evaluation, offering a straightforward and concise evaluation of your LLM application’s performance and determining its deployability.
+* **Evaluation:** LLMOps tools can be used for LLM-based application evaluation, offering a concise and straightforward assessment of your LLM application’s performance and determining its deployability.
     
 * **Continuous Improvement:** Regular evaluation is essential for maintaining the LLM’s performance over time, as it can be used to compare different versions or iterations of the model.
     
@@ -137,4 +131,4 @@ Several best practices have been identified to overcome these challenges and ens
 * Mastering LLMOps will ultimately enable organizations to create cutting-edge AI solutions and open up new opportunities for innovation. As the discipline continues to evolve, it will be exciting to see how it shapes the future of AI and machine learning.
     
 
-To summarize, DevOps, MLOps, and LLMOps are three approaches aimed at enhancing the speed, efficiency, and dependability of software and services. DevOps is a methodology that focuses on overall IT and software development, while MLOps is designed to optimize machine learning models. LLMOps, on the other hand, specializes in managing large language models within the AI field.
+To summarize, DevOps, MLOps, and LLMOps are three approaches to enhance the speed, efficiency, and dependability of software and services. DevOps is a methodology that focuses on overall IT and software development, while MLOps is designed to optimize machine learning models. LLMOps, on the other hand, specializes in managing large language models within the AI field.
