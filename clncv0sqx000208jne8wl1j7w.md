@@ -12,11 +12,11 @@ tags: cfp, pycon, pyconindia2023, pyconindia, pycon2023
 
 ## Introduction
 
-If you are part of the CFP group in PyCon India or any other conference, this post is for you. I have mentioned my learnings and working process of the CFP workgroup in PyCon India 2023.
+If you are part of the CFP group at PyCon India or any other conference, this post is for you. I have mentioned my learnings and working process for the CFP workgroup at PyCon India 2023.
 
 I was one of the CFP (Call For Proposal) reviewers at [PyCon (Python Conference) India 2019, Chennai](https://in.pycon.org/2019/). If you want to learn about my experience there, check out my article on [The Inside Story of How We Selected 30 Talks from 280+ Proposals for Pycon India 2019](https://blog.soumendrak.com/pycon-india-cfp-review).
 
-Post-2019 edition, PyCon India is back to the offline conference in 2023, and Soumendra also returns as a volunteer. For the 2023 edition, I have volunteered to be the CFP lead. We will briefly discuss the pre-event timeline.
+After the 2019 edition, PyCon India will return to the offline conference in 2023, and Soumendra will also return as a volunteer. I have volunteered to be the CFP lead for the 2023 edition. We will briefly discuss the pre-event timeline.
 
 ## Timeline
 
@@ -61,7 +61,7 @@ These terms will help you understand this post better.
 
 ## Reviewer Management 🪄
 
-As a CFP lead, you know the vital role of managing reviewers. This task is only second to managing proposals, which is the top priority. Your responsibilities include motivating volunteers to review, being empathetic, and ensuring work is completed throughout the five-month process. You can inspire your team to achieve great results with your dedication and guidance.
+As a CFP lead, you know the vital role of managing reviewers. This task is only second to managing proposals, which is the top priority. Your responsibilities include motivating volunteers to review, being empathetic, and ensuring work is completed throughout the five-month process. With your dedication and guidance, you can inspire your team to achieve great results.
 
 Leading people may seem more manageable in a corporate setting, as I have previously managed teams of ten to fifteen individuals. However, managing volunteers who are not obligated to complete tasks and only work voluntarily without compensation presents a challenge.
 
@@ -73,7 +73,7 @@ According to analysis, the reason why some reviewers left PyCon can be attribute
     
 2. As a Reviewer, one cannot submit a proposal to prevent any bias in the review process. This requirement caused many reviewers to leave.
     
-3. The reviewer's job is both thankless and tiring, as it requires evaluating each proposal for 30-45 minutes. To be a reviewer, one needs focus, dedication, and perseverance.
+3. The reviewer's job is both thankless and tiring, requiring evaluating each proposal for 30-45 minutes. To be a reviewer, one needs focus, dedication, and perseverance.
     
 4. Volunteers for the conference do not receive free tickets or any additional facilities.
     
@@ -88,7 +88,7 @@ Volunteer drop issue is common across Wikipedia, Mozilla, and other volunteer-dr
 
 *The trend of the number of attendees in the weekly call of the CFP workgroup.*
 
-75+ volunteers signed up to be a reviewer. Twenty-five joined on the first call, and by the end of five months, there were around six left. With less Reviewer: Proposal ratio, later on, we moved to generalists rather than experts to review the proposals.
+75+ volunteers signed up to be reviewers. Twenty-five joined on the first call, and by the end of five months, there were around six left. With a lower Reviewer: Proposal ratio, later on, we moved to generalists rather than experts to review the proposals.
 
 One positive aspect of volunteer-led initiatives is that the individuals who remain committed until the end are usually highly motivated. They can often surpass expectations by ten to one hundred times. If their opinions are respected and granted autonomy, they will likely exceed expectations even further.
 
@@ -104,7 +104,7 @@ Once the Junction tool was ready with data backup of previous editions and Categ
 
 There is a spike of proposals towards the first deadline, i.e., 5 Aug. Then a slight spike in the final deadline, i.e., 15 Aug.
 
-Initially, I was a bit unhappy that with only three days left, we got around 150 proposals, which is half of the proposals we received in 2019. However, due to aggressive promotion from all the social media handles and local chapters, we received 23 submissions on 4 Aug and 53 proposals 🤯 on 5 Aug, which was quite overwhelming. However, we could not break the number of proposals milestone of 2019.
+Initially, I was a bit unhappy that with only three days left, we got around 150 proposals, which is half of the proposals we received in 2019. However, due to aggressive promotion from all the social media handles and local chapters, we received 23 submissions on 4 Aug and 53 proposals 🤯 on 5 Aug, which was quite overwhelming. However, we could not break the number of proposals milestones in 2019.
 
 ### Proposals race 🐎
 
@@ -150,13 +150,13 @@ Let's break down how the Talk proposals narrowed down over the rounds.
         
     * Speaker profile.
         
-* We have allowed the submission of proposals till August end. There were medical cases where we made exceptions.
+* We have allowed the submission of proposals till the end of August. There were medical cases where we made exceptions.
     
 * In 2019, we received over 280 proposals in this process stage and unfortunately had to reject around 150. We aimed to decrease the number of rejections to below 50 for this round in this edition. To ensure proposers knew their status, we sent multiple reminders through Junction. These reminders were sent one week, two weeks, and one month after the initial submission.
     
 * However, we did receive feedback from some proposers who were not receiving emails about Junction's comments. As a result, we sent one final reminder email to all proposers to double-check their review comments.
     
-* Unfortunately, among all the proposals, 99 of them were not able to undergo review due to insufficient materials provided.
+* Unfortunately, 99 of the proposals were not able to undergo review due to insufficient materials provided.
     
 
 #### 2nd round
@@ -170,7 +170,7 @@ Let's break down how the Talk proposals narrowed down over the rounds.
 
 * We needed additional reviewers for this round, so the Core team members and experienced volunteers who had previously done reviews joined the CFP team to assist. We reviewed proposals missed in Junction, specifically those with less than three reviewer votes.
     
-* We also reviewed any proposals marked as Promotional. Our goal was to ensure that all second-round qualified proposals were reviewed by at least three reviewers by the end of this round.
+* We also reviewed any proposals marked as Promotional. Our goal was to ensure that at least three reviewers reviewed all second-round qualified proposals by the end of this round.
     
 * Once all proposals were scored, we proceeded to sort and further process those that were selected for the fourth round.
     
@@ -183,11 +183,11 @@ Let's break down how the Talk proposals narrowed down over the rounds.
     
     Where,  
     Ntsx = Number of proposals to be selected from category x  
-    Nts = No of total Talks to be selected for the conference  
+    Nts = No of total Talks to be chosen for the conference  
     Nrx = Number of proposals received in category x  
     Nt = Total number of proposals received
     
-* This was used as a guideline. All proposals were selected based on their merit. Suppose for a category; the formula was showing 0; if the proposal was highly scored, we selected that adjusting from other categories.
+* This was used as a guideline. All proposals were selected based on their merit. Suppose for a category, the formula was showing 0; if the proposal was highly scored, we chose that adjusting from other categories.
     
 * Diversity and First-time speaker preference came into the picture here. Extra preference was given to the Talks with first-time speakers or Female speakers.
     
@@ -196,9 +196,9 @@ Let's break down how the Talk proposals narrowed down over the rounds.
 
 #### 5th and final round
 
-* Later, we got to know that seven more proposals could be selected. We added the seven high-scored proposals to the list.
+* Later, we learned that seven more proposals could be selected. We added the seven high-scored proposals to the list.
     
-* Two of the speakers from Hyderabad coming to the conference have been shortlisted as standby speakers.
+* Two of the speakers from Hyderabad who are coming to the conference have been shortlisted as standby speakers.
     
 * For one last time, we have gone through the final shortlisted Talks.
     
@@ -218,7 +218,7 @@ The challenge was to complete the first two rounds in parallel. While the propos
 
 ### Scheduling the Talks
 
-* Scheduling the Talks is always a challenge. In addition, we learned that the tracks will be in different buildings with a good amount of distance between them.
+* Scheduling the Talks is always a challenge. In addition, we learned that the tracks will be in different buildings, with a good distance between them.
     
 * This was my first time as a scheduler; I was listening to the challenges involved most of the time. I want to thank [Praneet Mokkapati](https://www.linkedin.com/in/praneet-mokkapati/), who helped us identify future issues and schedule the Talks.
     
@@ -227,21 +227,21 @@ The challenge was to complete the first two rounds in parallel. While the propos
 
 ## Tools and Technologies ⚒️
 
-This Section is for you if you are a future PyCon India or any other conference organizer. Thanks to the following tools which helped us make the conference possible.
+This Section is for you if you are a future PyCon India or any other conference organizer. The following tools helped make the conference possible.
 
 1. [Junction](https://github.com/pythonindia/junction): A Django-based web application for proposals and reviewer management.
     
 2. [Jitsi](https://meet.jit.si/): A free web and mobile app to start and join meetings.
     
-3. [Zoho Mail](https://mail.zoho.in/): A free mailbox to send and receive emails with a custom domain like *cfp@in.pycon.org*, *tickets@in.pycon.org or contact@in.pycon.org*.
+3. [Zoho Mail](https://mail.zoho.in/) is a free mailbox for sending and receiving emails with a custom domain like cfp@in.pycon.org, tickets@in.pycon.org, *or contact@in.pycon.org*.
     
 4. [GitHub Project Manager](https://github.com/orgs/pythonindia/projects/3): We have used the GitHub project manager to manage the workgroup tasks.
     
-5. Google Docs: For Agenda, MoM, and further free-flowing text-related documents, we have used Google Docs extensively.
+5. Google Docs: We have extensively used Google Docs for Agenda, MoM, and other free-flowing text-related documents.
     
 6. Google Sheets: We have used Google Sheets extensively from day 1 to manage the proposals, categorize and classify them, etc.
     
-7. Google Forms: We have used Google Forms to get reviewer, proposer, and speaker inputs at different phases of the conference.
+7. Google Forms: We have used Google Forms to collect reviewer, proposer, and speaker input at various conference phases.
     
 8. [Netlify](https://netlify.com/): We have used Netlify for PR review and our blog and website deployment.
     
@@ -254,36 +254,36 @@ This Section is for you if you are a future PyCon India or any other conference 
 
 In these seven months, I learned many things:
 
-1. **Self-realization:** I will do it if I have committed to delivering task A, which significantly impacts other human beings. It does not matter if I am getting paid for it or not. It does not matter if I get support from others or not.
+1. **Self-realization:** I will do it if I have committed to delivering task A, which significantly impacts other human beings. It does not matter if I am getting paid for it or not, or if I get support from others.
     
 2. **Asynchronous communication:** For the CFP workgroup, I tried to manage most of the tasks asynchronously over Zulip and WhatsApp rather than frequent meetings where all participants needed to meet. During the later parts, I made weekly calls and took asynchronous updates from reviewers. Too many synchronous meetings (every participant needs to be there simultaneously) are for people with poor written communication skills, lack of motivation, or less accountability.
     
 3. **Better planning of tasks:** I should have divided the proposals and assigned them to individuals to review rather than asking them to pick up from their preferred category. Often, people want to get specific tasks, and someone else takes care of the bigger picture.
     
-4. **Time and Energy Management:** Time and Energy management across office work, M.Tech, [my other volunteering works](https://www.soumendrak.com/#360146baddc94b1b9d62fa61bfcbe211), and PyCon was challenging. Active prioritization and energy management helped me throughout the journey. This helped during the event days as well.
+4. **Time and Energy Management:** Time and Energy management across office work, M.Tech, [my other volunteering](https://www.soumendrak.com/#360146baddc94b1b9d62fa61bfcbe211) work, and PyCon was challenging. Active prioritization and energy management helped me throughout the journey, and this also helped during the event days.
     
 5. **Proposer Threats:** Some proposers did not like that their proposal was not selected. One even threatened to complain against me in the Indian ministry. I ignored the threat. Through years of experience in social media and online forums, I have learned where to give my attention.
     
 6. **Junction Tool:** The [Junction tool](https://github.com/pythonindia/junction) is not fully matured. After a particular stage in the review process, we were forced to migrate to Google Sheets for proposals and reviewer management. As the only consumer with superuser access in Junction, I will help the Junction lead, Ananyo, to add more features.
     
-7. **Attendees preference:** While buying tickets, we could have asked the attendees about the top 3 categories of Talks they wanted to attend, but we missed adding that. That would have made our job easier to select proposals across categories.
+7. **Attendees' preference:** While buying tickets, we could have asked the attendees about the top 3 categories of Talks they wanted to attend, but we missed adding that. That would have made our job easier to select proposals across categories.
     
-8. **Pressure on last rounds:** The last three rounds were conducted in a mere seven to ten days. I should have planned better and reduced the number of Talks needed to qualify for further rounds.
+8. **Pressure on last rounds:** The previous three rounds were conducted in seven to ten days. I should have planned better and reduced the number of Talks needed to qualify for further rounds.
     
-9. **Attention to other tracks:** Other than Talks and Workshops, I did not give any attention to Poster presentations, Software exhibits, or promotion of other tracks; this could have been improved.
+9. **Attention to other tracks:** Other than talks and workshops, I did not pay any attention to poster presentations, software exhibits, or promotion of other tracks; this could have been improved.
     
 10. **Proposals and Generative AI:** A few proposals have been made entirely out of chatGPT, and even the source code went undetected till the later stage of the conference. For future CFP teams, it will be trickier to identify whether AI made an excellent first impression but, deep down, low-quality proposals.
     
-11. **Making everyone happy:** One thing that became clear was that we would not be able to make every attendee happy with the proposal selection or schedule preparation. However, we have tried our best to give the majority of attendees an excellent, unforgettable experience.
+11. **Making everyone happy:** One thing that became clear was that we would not be able to make every attendee pleased with the proposal selection or schedule preparation. However, we have tried our best to give the majority of attendees an excellent, unforgettable experience.
     
 
 ## Acknowledgment
 
 ![Volunteers at PyCon India 2023.](https://cdn.hashnode.com/res/hashnode/image/upload/v1696488994788/8cf8faa1-d68c-41f9-a2a8-2f5271314a7d.png align="center")
 
-*Volunteers at PyCon India 2023 closing ceremony. P.C.:* [*Animesh Ghosh*](https://x.com/theOnlyMaDDogx/status/1708476003805470805?s=20)
+*Volunteers at PyCon India 2023 closing ceremony. P.C.:*[*Animesh Ghosh*](https://x.com/theOnlyMaDDogx/status/1708476003805470805?s=20)
 
-PyCon India is run entirely by volunteers who bring in sponsors, organize the event, and even pay for their tickets. As a core team member, I have witnessed the remarkable effort and energy a few dedicated volunteers put into the conference. This demonstrates the strength of human beings, as not all actions are driven by monetary gain. When a cause is inspiring enough, it can unite many individuals to work towards a common goal, whether it is the Indian independence movement or organizing an event. The cause is what truly matters. I want to thank the [other workgroup leads](https://web.archive.org/web/20231002020435/https://in.pycon.org/2023/volunteers/workgroup-leads/) and volunteers for doing their responsibilities to make this conference possible.
+PyCon India is run entirely by volunteers who bring in sponsors, organize the event, and even pay for their tickets. As a core team member, I have witnessed the remarkable effort and energy a few dedicated volunteers put into the conference. This demonstrates the strength of human beings, as not all actions are driven by monetary gain. When a cause is inspiring enough, it can unite many individuals to work towards a common goal, whether the Indian independence movement or organizing an event. The reason is what truly matters. I want to thank the [other workgroup leads](https://web.archive.org/web/20231002020435/https://in.pycon.org/2023/volunteers/workgroup-leads/) and volunteers for doing their responsibilities to make this conference possible.
 
 I am thrilled to extend my heartfelt appreciation to my fantastic co-lead, [Dr. Murali](https://www.linkedin.com/in/muralidharan-murugesan-050a4727/), who stepped up and seamlessly took on my duties whenever urgent matters cropped up over seven months.
 
@@ -309,3 +309,5 @@ In this post, we discussed the overall process of the CFP workgroup since its in
 ![CFP Team](https://cdn.hashnode.com/res/hashnode/image/upload/v1696488384210/81a10e08-4ecb-4d50-812b-b60e54a29dd9.jpeg align="center")
 
 *Partial CFP Team: (From left) Samir Thakkar, Koti Vellanki, Soumendra (me) and Dr Murali*
+
+A few other resources like Email templates and plans: [PyCon India 2023 Dashboard (soumendrak.com)](https://note.soumendrak.com/archive/py-con/py-con-india-2023-dashboard/)
