@@ -310,4 +310,4 @@ In this post, we discussed the overall process of the CFP workgroup since its in
 
 *Partial CFP Team: (From left) Samir Thakkar, Koti Vellanki, Soumendra (me) and Dr Murali*
 
-A few other resources like Email templates and plans: [PyCon India 2023 Dashboard (soumendrak.com)](https://note.soumendrak.com/archive/py-con/py-con-india-2023-dashboard/)
+A few other resources like Email templates and plans: [PyCon India 2023 Dashboard (soumendrak.com)](https://note.soumendrak.com/notes/py-con/py-con-india-2023-dashboard/)
