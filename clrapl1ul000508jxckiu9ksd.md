@@ -39,11 +39,23 @@ tags: devops, mlops, llm, llmops
         
     * Choosing a stable foundation model (base LLM) is crucial for LLMOps.
         
-* These complex models require significant resources, making their operationalization a distinct field within AI operations\[[6](https://www.pluralsight.com/resources/blog/data/what-is-llmops)\].
+    * Here is a detailed difference between these two based on tasks \[[4](https://neptune.ai/blog/llmops)\]
+        
+
+| **Task** | **MLOps** | **LLMOps** |
+| --- | --- | --- |
+| **Primary focus** | Developing and deploying machine-learning models. | Specifically focused on LLMs. |
+| **Model adaptation** | If employed, it typically focuses on transfer learning and retraining. | Centers on fine-tuning pre-trained models like GPT-3.5 with efficient methods and enhancing model performance through prompt engineering and retrieval augmented generation (RAG). |
+| **Model evaluation** | Evaluation relies on well-defined performance metrics. | Evaluating text quality and response accuracy often requires human feedback due to the complexity of language understanding  (e.g., using techniques like [R](https://huggingface.co/blog/rlhf)LHF.) |
+| **Model management** | Teams typically manage their models, including versioning [and](https://huggingface.co/blog/rlhf) metadata. | Models are often externally hosted and accessed via APIs. |
+| **Deployment** | [Dep](https://huggingface.co/blog/rlhf)loy models through pipelines, typically involving feature stores and containerization. | Models are part of chains and agents, supported by specialized tools like vector databases[.](https://huggingface.co/blog/rlhf) |
+| **Monitoring** | Monitor model performance for data drift and model degradation, often using automated monitoring tools. | Expands traditional monitoring to include prompt-response efficacy, context relevance, hallucination detection, and security against prompt injection threats. |
+
+* These complex models require significant resou[rces](https://huggingface.co/blog/rlhf), making their operationalization a distinct field within A[I op](https://huggingface.co/blog/rlhf)erations\[[6](https://www.pluralsight.com/resources/blog/data/what-is-llmops)[\].](https://huggingface.co/blog/rlhf)
     
-* LLMOps involves managing the entire lifecycle of LLMs, including development, deployment, monitoring, and governance, focusing on efficiency, scalability, and reliability\[[9](https://www.leewayhertz.com/what-is-llmops/)\]\[[12](https://aisera.com/blog/llmops/)\].
+* LLMOps involves managing the entire lifecycle of LLMs, including development, deploymen[t, m](https://huggingface.co/blog/rlhf)onitoring, and governance, focusing on efficiency, scalability, and reliability\[[9](https://www.leewayhertz.com/what-is-llmops/)\]\[[12](https://aisera.com/blog/llmops/)\].
     
-* LLMOps is essential for ensuring that LLMs are deployed and managed consistently and reliably, which is particularly important given that LLMs are often used in critical applications, such as customer service chatbots and medical diagnosis systems.
+* LL[MOps](https://huggingface.co/blog/rlhf) is essent[ial](https://huggingface.co/blog/rlhf) for ensuring that LLMs are deployed and managed consistently and reliably, which is particularly import[ant](https://huggingface.co/blog/rlhf) given that LLMs are often used in critical applications, such as customer service chatbots and medical diagnosis systems.
     
 
 ### Challenges in LLMOps
