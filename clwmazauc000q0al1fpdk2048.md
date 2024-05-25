@@ -56,8 +56,10 @@ This was a slowly accumulating memory leak over a month. These are generally har
     
 * I revisited this talk and took inspiration to resolve this memory leak.
     
-    ![PyCon India 2019 - Debug Memory Leak In Python Flask](https://www.youtube.com/watch?v=s9kAghWpzoE align="left")
-    
+
+%[https://www.youtube.com/watch?v=s9kAghWpzoE] 
+
+*PyCon India 2019 Talk - Debug Memory Leak In Python Flask*
 
 ```diff
 import tracemalloc
