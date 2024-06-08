@@ -41,18 +41,20 @@ This was a slowly accumulating memory leak over a month. These are generally har
 
 * There was another Grafana chart where we recorded how many requests per API were received.
     
-* After manually checking both charts at minute intervals, I found that a specific API was positively correlated with memory usage.
+* After manually checking both charts at minute intervals, I found that **a specific API was positively correlated with memory usage.**
     
 * I scoped down the memory leak search only to this API request.
     
 
 ### Code changes
 
+* This was a live server. We could not stop it or reproduce the leak in the staging environment, and we could not degrade the performance either. If the server had gone down, it would have been classified as a P0 incident. Trust me, you do not want to create a P0 incident.
+    
 * I used a built-in library, *Tracemalloc*, to detect the memory leak.
     
 * As a CFP reviewer in PyCon India 2019, one of the talks I selected was *Debug Memory Leak In Python Flask*.
     
-* In this talk, the speaker explained a similar scenario.
+* In this talk, the speaker, Sanket Patel, explained a similar scenario happened at LinkedIn.
     
 * I revisited this talk and took inspiration to resolve this memory leak.
     
@@ -62,7 +64,7 @@ This was a slowly accumulating memory leak over a month. These are generally har
 *PyCon India 2019 Talk - Debug Memory Leak In Python Flask*
 
 ```diff
-import tracemalloc
++ import tracemalloc
 from loguru import logger
 
 
@@ -142,8 +144,6 @@ Top 10 highest memory used lines on day-5 of the code change
 * As we no longer use this library in the server to check the method execution latencies (Prometheus does that now), I removed this library usage.
     
 
-asas
-
 ## Postfix
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1716638010742/5be304dc-fff2-408e-8d54-3e098aa82d5b.png align="center")
@@ -157,4 +157,4 @@ asas
 
 ## Conclusion
 
-In this post, we went through identifying a memory leak and fixing the leak. Here, we have used tracemalloc library to haunt the leak.
+In this post, we went through identifying a memory leak, scoping down and fixing the leak. Here, we have used tracemalloc library to haunt the leak.
